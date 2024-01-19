@@ -39,6 +39,7 @@ const PeriodicTable = () => {
           <div className="electron-configuration">{element.eConf}</div>
         </div>
       ))}
+	  <div className="sep"></div>
     </div>
   );
 };

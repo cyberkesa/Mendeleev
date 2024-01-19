@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  /* height: 40vmin; */
   pointer-events: none;
 }
 
@@ -14,18 +14,17 @@
 }
 
 .App-header {
-  height: 5vh;
+  height: 4vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(1px + 2vmin);
+  font-size: calc(3px + 2vmin);
   color: rgb(15, 15, 15);
 }
 
 h1 {
   font-weight: 500;
-
 }
 
 .App-link {

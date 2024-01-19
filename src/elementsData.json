@@ -24,7 +24,7 @@
 		"eConf": "1s2",
 		"eNeg": null,
 		"oxiS": [0],
-		"position": [1, 18],
+		"position": [1, 19],
 		"color": "#B8FAF9"
 	},
 	{
@@ -39,7 +39,7 @@
 		"eNeg": 0.98,
 		"oxiS": [1],
 		"position": [2, 1],
-		"color": "#FF808E"
+		"color": "#F55C66"
 	  },
 	  {
 		"id": 4,
@@ -66,7 +66,8 @@
 		"eConf": "[He] 2s2 2p1",
 		"eNeg": 2.04,
 		"oxiS": [3],
-		"position": [2, 13]
+		"position": [2, 14],
+		"color": "#CFCFAB"
 	  },
 	  {
 		"id": 6,
@@ -79,7 +80,7 @@
 		"eConf": "[He] 2s2 2p2",
 		"eNeg": 2.55,
 		"oxiS": [4],
-		"position": [2, 14],
+		"position": [2, 15],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -93,7 +94,7 @@
 		"eConf": "[He] 2s2 2p3",
 		"eNeg": 3.04,
 		"oxiS": [3, -3],
-		"position": [2, 15],
+		"position": [2, 16],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -107,7 +108,7 @@
 		"eConf": "[He] 2s2 2p4",
 		"eNeg": 3.44,
 		"oxiS": [-2],
-		"position": [2, 16],
+		"position": [2, 17],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -121,7 +122,7 @@
 		"eConf": "[He] 2s2 2p5",
 		"eNeg": 3.98,
 		"oxiS": [-1],
-		"position": [2, 17],
+		"position": [2, 18],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -135,7 +136,7 @@
 		"eConf": "[He] 2s2 2p6",
 		"eNeg": null,
 		"oxiS": [0],
-		"position": [2, 18],
+		"position": [2, 19],
 		"color": "#B8FAF9"
 	  },
 	  {
@@ -149,7 +150,8 @@
 		"eConf": "[Ne] 3s1",
 		"eNeg": 0.93,
 		"oxiS": [1],
-		"position": [3, 1]
+		"position": [3, 1],
+		"color": "#F55C66"
 	  },
 	  {
 		"id": 12,
@@ -176,7 +178,7 @@
 		"eConf": "[Ne] 3s2 3p1",
 		"eNeg": 1.61,
 		"oxiS": [3],
-		"position": [3, 13],
+		"position": [3, 14],
 		"color": "#CCCCCC"
 	  },
 	  {
@@ -190,7 +192,8 @@
 		"eConf": "[Ne] 3s2 3p2",
 		"eNeg": 1.90,
 		"oxiS": [4],
-		"position": [3, 14]
+		"position": [3, 15],
+		"color": "#CFCFAB"
 	  },
 	  {
 		"id": 15,
@@ -203,7 +206,7 @@
 		"eConf": "[Ne] 3s2 3p3",
 		"eNeg": 2.19,
 		"oxiS": [3, -3],
-		"position": [3, 15],
+		"position": [3, 16],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -217,7 +220,7 @@
 		"eConf": "[Ne] 3s2 3p4",
 		"eNeg": 2.58,
 		"oxiS": [2, -2, 6],
-		"position": [3, 16],
+		"position": [3, 17],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -231,7 +234,7 @@
 		"eConf": "[Ne] 3s2 3p5",
 		"eNeg": 3.16,
 		"oxiS": [-1],
-		"position": [3, 17],
+		"position": [3, 18],
 		"color": "#F6FF99"
 	  },
 	  {
@@ -245,7 +248,7 @@
 		"eConf": "[Ne] 3s2 3p6",
 		"eNeg": null,
 		"oxiS": [0],
-		"position": [3, 18],
+		"position": [3, 19],
 		"color": "#B8FAF9"
 	  },
 	  {
@@ -259,7 +262,8 @@
 		"eConf": "[Ar] 4s1",
 		"eNeg": 0.82,
 		"oxiS": [1],
-		"position": [4, 1]
+		"position": [4, 1],
+		"color": "#F55C66"
 	  },
 	  {
 		"id": 20,
@@ -272,7 +276,8 @@
 		"eConf": "[Ar] 4s2",
 		"eNeg": 1.00,
 		"oxiS": [2],
-		"position": [4, 2]
+		"position": [4, 2],
+		"color": "#FDEBC4"
 	  },
 	  {
 		"id": 21,
@@ -299,7 +304,7 @@
 		"eConf": "[Ar] 3d2 4s2",
 		"eNeg": 1.54,
 		"oxiS": [4],
-		"position": [4, 4],
+		"position": [4, 5],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -313,7 +318,7 @@
 		"eConf": "[Ar] 3d3 4s2",
 		"eNeg": 1.63,
 		"oxiS": [2, 3, 4],
-		"position": [4, 5],
+		"position": [4, 6],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -327,7 +332,7 @@
 		"eConf": "[Ar] 3d5 4s1",
 		"eNeg": 1.66,
 		"oxiS": [2, 3, 6],
-		"position": [4, 6],
+		"position": [4, 7],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -341,7 +346,7 @@
 		"eConf": "[Ar] 3d5 4s2",
 		"eNeg": 1.55,
 		"oxiS": [2, 4, 7],
-		"position": [4, 7],
+		"position": [4, 8],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -355,7 +360,7 @@
 		"eConf": "[Ar] 3d6 4s2",
 		"eNeg": 1.83,
 		"oxiS": [2, 3, 6],
-		"position": [4, 8],
+		"position": [4, 9],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -369,7 +374,7 @@
 		"eConf": "[Ar] 3d7 4s2",
 		"eNeg": 1.88,
 		"oxiS": [2, 3],
-		"position": [4, 9],
+		"position": [4, 10],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -383,7 +388,7 @@
 		"eConf": "[Ar] 3d8 4s2",
 		"eNeg": 1.91,
 		"oxiS": [2, 3],
-		"position": [4, 10],
+		"position": [4, 11],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -397,7 +402,7 @@
 		"eConf": "[Ar] 3d9 4s2",
 		"eNeg": 1.9,
 		"oxiS": [1, 2],
-		"position": [4, 11],
+		"position": [4, 12],
 		"color": "#FFCCCE"
 	  },
 	  {
@@ -411,7 +416,7 @@
 		"eConf": "[Ar] 3d10 4s2",
 		"eNeg": 1.65,
 		"oxiS": [2],
-		"position": [4, 12],
+		"position": [4, 13],
 		"color": "#CCCCCC"
 	  },
 	  {
@@ -425,7 +430,7 @@
 		"eConf": "[Ar] 3d10 4s2 4p1",
 		"eNeg": 1.81,
 		"oxiS": [3],
-		"position": [4, 13],
+		"position": [4, 14],
 		"color": "#CCCCCC"
 	  },
 	  {
@@ -439,7 +444,7 @@
 		"eConf": "[Ar] 3d10 4s2 4p2",
 		"eNeg": 2.01,
 		"oxiS": [4],
-		"position": [4, 14],
+		"position": [4, 15],
 		"color": "#CFCFAB"
 	  },
 	  {
@@ -453,7 +458,7 @@
 		"eConf": "[Ar] 3d10 4s2 4p3",
 		"eNeg": 2.18,
 		"oxiS": [-3, 2, 3, 5],
-		"position": [4, 15],
+		"position": [4, 16],
 		"color": "#CFCFAB"
 	  },
 	  {
@@ -467,8 +472,8 @@
 		"eConf": "[Ar] 3d10 4s2 4p4",
 		"eNeg": 2.55,
 		"oxiS": [-2, 2, 4, 6],
-		"position": [4, 16],
-		"color": "#FFA500"
+		"position": [4, 17],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 35,
@@ -481,8 +486,8 @@
 		"eConf": "[Ar] 3d10 4s2 4p5",
 		"eNeg": 2.96,
 		"oxiS": [-1, 1, 3, 5, 7],
-		"position": [4, 17],
-		"color": "#008080"
+		"position": [4, 18],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 36,
@@ -495,8 +500,8 @@
 		"eConf": "[Ar] 3d10 4s2 4p6",
 		"eNeg": null,
 		"oxiS": [2],
-		"position": [4, 18],
-		"color": "#800080"
+		"position": [4, 19],
+		"color": "#B8FAF9"
 	  },
 	  {
 		"id": 37,
@@ -510,7 +515,7 @@
 		"eNeg": 0.82,
 		"oxiS": [1],
 		"position": [5, 1],
-		"color": "#FFD700"
+		"color": "#F55C66"
 	  },
 	  {
 		"id": 38,
@@ -524,7 +529,7 @@
 		"eNeg": 0.95,
 		"oxiS": [2],
 		"position": [5, 2],
-		"color": "#00FF7F"
+		"color": "#FDEBC4"
 	  },
 	  {
 		"id": 39,
@@ -538,7 +543,7 @@
 		"eNeg": 1.22,
 		"oxiS": [3],
 		"position": [5, 3],
-		"color": "#000080"
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 40,
@@ -551,8 +556,8 @@
 		"eConf": "[Kr] 4d2 5s2",
 		"eNeg": 1.33,
 		"oxiS": [4],
-		"position": [5, 4],
-		"color": "#008080"
+		"position": [5, 5],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 41,
@@ -565,8 +570,554 @@
 		"eConf": "[Kr] 4d4 5s1",
 		"eNeg": 1.6,
 		"oxiS": [5],
-		"position": [5, 5],
-		"color": "#800080"
+		"position": [5, 6],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 42,
+		"aN": 42,
+		"aW": 95.94,
+		"IE": 759,
+		"symbol": "Mo",
+		"name": "Molybdenum",
+		"ru": "Молибден",
+		"eConf": "[Kr] 4d5 5s1",
+		"eNeg": 2.16,
+		"oxiS": [6],
+		"position": [5, 7],
+		"color": ""
+	  },
+	  {
+		"id": 43,
+		"aN": 43,
+		"aW": 98,
+		"IE": 760,
+		"symbol": "Tc",
+		"name": "Technetium",
+		"ru": "Технеций",
+		"eConf": "[Kr] 4d5 5s2",
+		"eNeg": 1.9,
+		"oxiS": [7],
+		"position": [5, 8],
+		"color": ""
+	  },
+	  {
+		"id": 44,
+		"aN": 44,
+		"aW": 101.07,
+		"IE": 760,
+		"symbol": "Ru",
+		"name": "Ruthenium",
+		"ru": "Рутений",
+		"eConf": "[Kr] 4d7 5s1",
+		"eNeg": 2.2,
+		"oxiS": [3],
+		"position": [5, 9],
+		"color": ""
+	  },
+	  {
+		"id": 45,
+		"aN": 45,
+		"aW": 102.91,
+		"IE": 761,
+		"symbol": "Rh",
+		"name": "Rhodium",
+		"ru": "Родий",
+		"eConf": "[Kr] 4d8 5s1",
+		"eNeg": 2.28,
+		"oxiS": [3],
+		"position": [5, 10],
+		"color": ""
+	  },
+	  {
+		"id": 46,
+		"aN": 46,
+		"aW": 106.42,
+		"IE": 760,
+		"symbol": "Pd",
+		"name": "Palladium",
+		"ru": "Палладий",
+		"eConf": "[Kr] 4d10",
+		"eNeg": 2.2,
+		"oxiS": [2, 4],
+		"position": [5, 11],
+		"color": ""
+	  },
+	  {
+		"id": 47,
+		"aN": 47,
+		"aW": 107.87,
+		"IE": 761,
+		"symbol": "Ag",
+		"name": "Silver",
+		"ru": "Серебро",
+		"eConf": "[Kr] 4d10 5s1",
+		"eNeg": 1.93,
+		"oxiS": [1],
+		"position": [5, 12],
+		"color": ""
+	  },
+	  {
+		"id": 48,
+		"aN": 48,
+		"aW": 112.41,
+		"IE": 760,
+		"symbol": "Cd",
+		"name": "Cadmium",
+		"ru": "Кадмий",
+		"eConf": "[Kr] 4d10 5s2",
+		"eNeg": 1.69,
+		"oxiS": [2],
+		"position": [5, 13],
+		"color": ""
+	  },
+	  {
+		"id": 49,
+		"aN": 49,
+		"aW": 114.82,
+		"IE": 760,
+		"symbol": "In",
+		"name": "Indium",
+		"ru": "Индий",
+		"eConf": "[Kr] 4d10 5s2 5p1",
+		"eNeg": 1.78,
+		"oxiS": [3],
+		"position": [5, 14],
+		"color": ""
+	  },
+	  {
+		"id": 50,
+		"aN": 50,
+		"aW": 118.71,
+		"IE": 760,
+		"symbol": "Sn",
+		"name": "Tin",
+		"ru": "Олово",
+		"eConf": "[Kr] 4d10 5s2 5p2",
+		"eNeg": 1.96,
+		"oxiS": [4, 2],
+		"position": [5, 15],
+		"color": ""
+	  },
+	  {
+		"id": 51,
+		"aN": 51,
+		"aW": 121.76,
+		"IE": 761,
+		"symbol": "Sb",
+		"name": "Antimony",
+		"ru": "Сурьма",
+		"eConf": "[Kr] 4d10 5s2 5p3",
+		"eNeg": 2.05,
+		"oxiS": [3, 5],
+		"position": [5, 16],
+		"color": ""
+	  },
+	  {
+		"id": 52,
+		"aN": 52,
+		"aW": 127.6,
+		"IE": 760,
+		"symbol": "Te",
+		"name": "Tellurium",
+		"ru": "Теллур",
+		"eConf": "[Kr] 4d10 5s2 5p4",
+		"eNeg": 2.1,
+		"oxiS": [4, 6],
+		"position": [5, 17],
+		"color": ""
+	  },
+	  {
+		"id": 53,
+		"aN": 53,
+		"aW": 126.9,
+		"IE": 762,
+		"symbol": "I",
+		"name": "Iodine",
+		"ru": "Иод",
+		"eConf": "[Kr] 4d10 5s2 5p5",
+		"eNeg": 2.66,
+		"oxiS": [-1, 1, 3, 5, 7],
+		"position": [5, 18],
+		"color": ""
+	  },
+	  {
+		"id": 54,
+		"aN": 54,
+		"aW": 131.29,
+		"IE": 760,
+		"symbol": "Xe",
+		"name": "Xenon",
+		"ru": "Ксенон",
+		"eConf": "[Kr] 4d10 5s2 5p6",
+		"eNeg": null,
+		"oxiS": [0],
+		"position": [5, 19],
+		"color": ""
+	  },
+	  {
+		"id": 55,
+		"aN": 55,
+		"aW": 132.91,
+		"IE": 761,
+		"symbol": "Cs",
+		"name": "Cesium",
+		"ru": "Цезий",
+		"eConf": "[Xe] 6s1",
+		"eNeg": 0.79,
+		"oxiS": [1],
+		"position": [6, 1],
+		"color": ""
+	  },
+	  {
+		"id": 56,
+		"aN": 56,
+		"aW": 137.33,
+		"IE": 762,
+		"symbol": "Ba",
+		"name": "Barium",
+		"ru": "Барий",
+		"eConf": "[Xe] 6s2",
+		"eNeg": 0.89,
+		"oxiS": [2],
+		"position": [6, 2],
+		"color": ""
+	  },
+	  {
+		"id": 57,
+		"aN": 57,
+		"aW": 138.91,
+		"IE": 761,
+		"symbol": "La",
+		"name": "Lanthanum",
+		"ru": "Лантан",
+		"eConf": "[Xe] 5d1 6s2",
+		"eNeg": 1.1,
+		"oxiS": [3],
+		"position": [6, 3],
+		"color": ""
+	  },
+	  {
+		"id": 58,
+		"aN": 58,
+		"aW": 140.12,
+		"IE": 762,
+		"symbol": "Ce",
+		"name": "Cerium",
+		"ru": "Церий",
+		"eConf": "[Xe] 4f1 5d1 6s2",
+		"eNeg": 1.12,
+		"oxiS": [4],
+		"position": [6, 5],
+		"color": ""
+	  },
+	  {
+		"id": 59,
+		"aN": 59,
+		"aW": 140.91,
+		"IE": 761,
+		"symbol": "Pr",
+		"name": "Praseodymium",
+		"ru": "Празеодим",
+		"eConf": "[Xe] 4f3 6s2",
+		"eNeg": 1.13,
+		"oxiS": [3, 4],
+		"position": [6, 6],
+		"color": ""
+	  },
+	  {
+		"id": 60,
+		"aN": 60,
+		"aW": 144.24,
+		"IE": 762,
+		"symbol": "Nd",
+		"name": "Neodymium",
+		"ru": "Неодим",
+		"eConf": "[Xe] 4f4 6s2",
+		"eNeg": 1.14,
+		"oxiS": [3],
+		"position": [6, 7],
+		"color": ""
+	  },
+	  {
+		"id": 61,
+		"aN": 61,
+		"aW": 145,
+		"IE": 761,
+		"symbol": "Pm",
+		"name": "Promethium",
+		"ru": "Прометий",
+		"eConf": "[Xe] 4f5 6s2",
+		"eNeg": null,
+		"oxiS": [3],
+		"position": [6, 8],
+		"color": ""
+	  },
+	  {
+		"id": 62,
+		"aN": 62,
+		"aW": 150.36,
+		"IE": 762,
+		"symbol": "Sm",
+		"name": "Samarium",
+		"ru": "Самарий",
+		"eConf": "[Xe] 4f6 6s2",
+		"eNeg": 1.17,
+		"oxiS": [2, 3],
+		"position": [6, 9],
+		"color": ""
+	  },
+	  {
+		"id": 63,
+		"aN": 63,
+		"aW": 151.96,
+		"IE": 761,
+		"symbol": "Eu",
+		"name": "Europium",
+		"ru": "Европий",
+		"eConf": "[Xe] 4f7 6s2",
+		"eNeg": 1.2,
+		"oxiS": [2, 3],
+		"position": [6, 10],
+		"color": ""
+	  },
+	  {
+		"id": 64,
+		"aN": 64,
+		"aW": 157.25,
+		"IE": 762,
+		"symbol": "Gd",
+		"name": "Gadolinium",
+		"ru": "Гадолиний",
+		"eConf": "[Xe] 4f7 5d1 6s2",
+		"eNeg": 1.2,
+		"oxiS": [3],
+		"position": [6, 11],
+		"color": ""
+	  },
+	  {
+		"id": 65,
+		"aN": 65,
+		"aW": 158.93,
+		"IE": 761,
+		"symbol": "Tb",
+		"name": "Terbium",
+		"ru": "Тербий",
+		"eConf": "[Xe] 4f9 6s2",
+		"eNeg": 1.2,
+		"oxiS": [3, 4],
+		"position": [6, 12],
+		"color": ""
+	  },
+	  {
+		"id": 66,
+		"aN": 66,
+		"aW": 162.5,
+		"IE": 762,
+		"symbol": "Dy",
+		"name": "Dysprosium",
+		"ru": "Диспрозий",
+		"eConf": "[Xe] 4f10 6s2",
+		"eNeg": 1.22,
+		"oxiS": [3],
+		"position": [6, 13],
+		"color": ""
+	  },
+	  {
+		"id": 67,
+		"aN": 67,
+		"aW": 164.93,
+		"IE": 761,
+		"symbol": "Ho",
+		"name": "Holmium",
+		"ru": "Гольмий",
+		"eConf": "[Xe] 4f11 6s2",
+		"eNeg": 1.23,
+		"oxiS": [3],
+		"position": [6, 14],
+		"color": ""
+	  },
+	  {
+		"id": 68,
+		"aN": 68,
+		"aW": 167.26,
+		"IE": 762,
+		"symbol": "Er",
+		"name": "Erbium",
+		"ru": "Эрбий",
+		"eConf": "[Xe] 4f12 6s2",
+		"eNeg": 1.24,
+		"oxiS": [3],
+		"position": [6, 15],
+		"color": ""
+	  },
+	  {
+		"id": 69,
+		"aN": 69,
+		"aW": 168.93,
+		"IE": 761,
+		"symbol": "Tm",
+		"name": "Thulium",
+		"ru": "Тулий",
+		"eConf": "[Xe] 4f13 6s2",
+		"eNeg": 1.25,
+		"oxiS": [2, 3],
+		"position": [6, 16],
+		"color": ""
+	  },
+	  {
+		"id": 70,
+		"aN": 70,
+		"aW": 173.04,
+		"IE": 762,
+		"symbol": "Yb",
+		"name": "Ytterbium",
+		"ru": "Иттербий",
+		"eConf": "[Xe] 4f14 6s2",
+		"eNeg": 1.1,
+		"oxiS": [2, 3],
+		"position": [6, 17],
+		"color": ""
+	  },
+	  {
+		"id": 71,
+		"aN": 71,
+		"aW": 174.97,
+		"IE": 761,
+		"symbol": "Lu",
+		"name": "Lutetium",
+		"ru": "Лютеций",
+		"eConf": "[Xe] 4f14 5d1 6s2",
+		"eNeg": 1.27,
+		"oxiS": [3],
+		"position": [6, 18],
+		"color": ""
+	  },
+	  {
+		"id": 72,
+		"aN": 72,
+		"aW": 178.49,
+		"IE": 762,
+		"symbol": "Hf",
+		"name": "Hafnium",
+		"ru": "Гафний",
+		"eConf": "[Xe] 4f14 5d2 6s2",
+		"eNeg": 1.3,
+		"oxiS": [4],
+		"position": [6, 19],
+		"color": ""
+	  },
+	  {
+		"id": 73,
+		"aN": 73,
+		"aW": 180.95,
+		"IE": 761,
+		"symbol": "Ta",
+		"name": "Tantalum",
+		"ru": "Тантал",
+		"eConf": "[Xe] 4f14 5d3 6s2",
+		"eNeg": 1.5,
+		"oxiS": [5],
+		"position": [7, 1],
+		"color": ""
+	  },
+	  {
+		"id": 74,
+		"aN": 74,
+		"aW": 183.84,
+		"IE": 762,
+		"symbol": "W",
+		"name": "Tungsten",
+		"ru": "Вольфрам",
+		"eConf": "[Xe] 4f14 5d4 6s2",
+		"eNeg": 2.36,
+		"oxiS": [6],
+		"position": [7, 2],
+		"color": ""
+	  },
+	  {
+		"id": 75,
+		"aN": 75,
+		"aW": 186.21,
+		"IE": 761,
+		"symbol": "Re",
+		"name": "Rhenium",
+		"ru": "Рений",
+		"eConf": "[Xe] 4f14 5d5 6s2",
+		"eNeg": 1.9,
+		"oxiS": [7],
+		"position": [7, 3],
+		"color": ""
+	  },
+	  {
+		"id": 76,
+		"aN": 76,
+		"aW": 190.23,
+		"IE": 762,
+		"symbol": "Os",
+		"name": "Osmium",
+		"ru": "Осмий",
+		"eConf": "[Xe] 4f14 5d6 6s2",
+		"eNeg": 2.2,
+		"oxiS": [4],
+		"position": [7, 5],
+		"color": ""
+	  },
+	  {
+		"id": 77,
+		"aN": 77,
+		"aW": 192.22,
+		"IE": 761,
+		"symbol": "Ir",
+		"name": "Iridium",
+		"ru": "Иридий",
+		"eConf": "[Xe] 4f14 5d7 6s2",
+		"eNeg": 2.2,
+		"oxiS": [3],
+		"position": [7, 6],
+		"color": ""
+	  },
+	  {
+		"id": 78,
+		"aN": 78,
+		"aW": 195.08,
+		"IE": 762,
+		"symbol": "Pt",
+		"name": "Platinum",
+		"ru": "Платина",
+		"eConf": "[Xe] 4f14 5d9 6s1",
+		"eNeg": 2.28,
+		"oxiS": [2, 4],
+		"position": [7, 7],
+		"color": ""
+	  },
+	  {
+		"id": 79,
+		"aN": 79,
+		"aW": 196.97,
+		"IE": 761,
+		"symbol": "Au",
+		"name": "Gold",
+		"ru": "Золото",
+		"eConf": "[Xe] 4f14 5d10 6s1",
+		"eNeg": 2.54,
+		"oxiS": [1, 3],
+		"position": [7, 8],
+		"color": ""
+	  },
+	  {
+		"id": 80,
+		"aN": 80,
+		"aW": 200.59,
+		"IE": 762,
+		"symbol": "Hg",
+		"name": "Mercury",
+		"ru": "Ртуть",
+		"eConf": "[Xe] 4f14 5d10 6s2",
+		"eNeg": 2,
+		"oxiS": [1, 2],
+		"position": [7, 9],
+		"color": ""
 	  }
   ]
   
