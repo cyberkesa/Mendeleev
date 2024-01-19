@@ -21,15 +21,17 @@ const PeriodicTable = () => {
           <div className="symbol">{element.symbol}</div>
           <div className="name">{element.name}</div>
           <div className="atomic-weight">{element.atomicWeight}</div>
-          <div className="ionization-energy">
-            {element.ionizationEnergy} kJ/mol
-          </div>
+          <div className="ionization-energy">{element.ionizationEnergy}</div>
           <div className="russian-name">{element.russianName}</div>
           <div className="electron-configuration">
             {element.electronConfiguration}
           </div>
           <div className="electronegativity">{element.electronegativity}</div>
-          <div className="oxidation-states">{element.oxidationStates}</div>
+          <div className="oxidation-states">
+            {element.oxidationStates.map((state, index) => (
+              <div key={index}>{state}</div>
+            ))}
+          </div>
         </div>
       ))}
     </div>

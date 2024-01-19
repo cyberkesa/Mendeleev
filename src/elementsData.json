@@ -9,7 +9,7 @@
 	  "russianName": "Водород",
 	  "electronConfiguration": "1s1",
 	  "electronegativity": 2.20,
-	  "oxidationStates": "1, -1"
+	  "oxidationStates": [1, -1]
 	},
 	{
 	  "id": 2,
@@ -21,7 +21,7 @@
 	  "russianName": "Гелий",
 	  "electronConfiguration": "1s2",
 	  "electronegativity": null,
-	  "oxidationStates": "0"
+	  "oxidationStates": [0]
 	}
   ]
   
