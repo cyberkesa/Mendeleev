@@ -1,0 +1,29 @@
+.periodic-table {
+	display: grid;
+	grid-template-columns: repeat(18, 1fr);
+	gap: 2px;
+  }
+  
+  .element {
+	border: 1px solid #ddd;
+	padding: 10px;
+	cursor: pointer;
+  }
+  
+  .element:hover {
+	background-color: #f0f0f0;
+  }
+  
+  .selected {
+	background-color: #aaf;
+  }
+  
+  .symbol {
+	font-weight: bold;
+  }
+  
+  .name {
+	font-size: 0.8em;
+	color: #666;
+  }
+  
