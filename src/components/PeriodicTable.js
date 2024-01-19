@@ -19,6 +19,7 @@ const PeriodicTable = () => {
           style={{
             gridRow: element.position[0],
             gridColumn: element.position[1],
+			backgroundColor: element.color
           }}
         >
           <div className="atomic-number">{element.aN}</div>

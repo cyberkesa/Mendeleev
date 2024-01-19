@@ -1,16 +1,16 @@
 .periodic-table {
   display: grid;
   grid-template-columns: repeat(18, 1fr);
-  /* gap: 3px; */
+  margin: 35px;
 }
 
 .element {
-  font-size: 0.7em;
-  border: 1px solid #ddd;
-  padding: 8px;
+  font-size: 6px;
+  border: 0.1px solid #181818;
+  padding: 5px;
   cursor: pointer;
-  min-width: 100px;
-  min-height: 100px;
+  width: 55px;
+  height: 55px;
   position: relative;
   display: grid;
   grid-template-columns: 1fr;
@@ -26,7 +26,7 @@
 }
 
 .atomic-weight {
-  font-size: 1.1em;
+  /* font-size: 1em; */
   text-align: left;
   grid-row: 1;
   font-weight: bold;
@@ -34,12 +34,12 @@
 
 .ionization-energy {
   text-align: left;
-  font-size: 0.5em;
+  /* font-size: 0.2em; */
 }
 
 .oxidation-states {
   text-align: right;
-  grid-row: 3;
+  grid-row: span 6;
   grid-column: 2;
 }
 
@@ -49,12 +49,12 @@
 }
 
 .electronegativity {
-  font-size: 0.5em;
+  /* font-size: 1em; */
   margin-left: 6px;
 }
 
 .atomic-number {
-  font-size: 1.8em;
+  font-size: 2em;
   text-align: right;
   font-weight: bold;
   grid-row: span 2;
@@ -63,7 +63,7 @@
 
 .electron-configuration {
   text-align: left;
-  font-size: 0.5em;
+  font-size: 6px;
   grid-column: 1;
 }
 
@@ -80,11 +80,10 @@
 .symbol {
   text-align: left;
   font-weight: bold;
-  font-size: 2.5em;
+  font-size: 3.3em;
   grid-column: 1;
 }
 
 .name {
-  font-size: 0.7em;
-  color: #666;
+  /* font-size: 0.7em; */
 }

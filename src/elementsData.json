@@ -10,20 +10,22 @@
 	  "eConf": "1s1",
 	  "eNeg": 2.20,
 	  "oxiS": [1, -1],
-	  "position": [1, 1]
+	  "position": [1, 1],
+	  "color": "#F6FF99"
 	},
 	{
-	  "id": 2,
-	  "aN": 2,
-	  "aW": 4.0026,
-	  "IE": 2372,
-	  "symbol": "He",
-	  "name": "Helium",
-	  "ru": "Гелий",
-	  "eConf": "1s2",
-	  "eNeg": null,
-	  "oxiS": [0],
-	  "position": [1, 18]
+		"id": 2,
+		"aN": 2,
+		"aW": 4.0026,
+		"IE": 2372,
+		"symbol": "He",
+		"name": "Helium",
+		"ru": "Гелий",
+		"eConf": "1s2",
+		"eNeg": null,
+		"oxiS": [0],
+		"position": [1, 18],
+		"color": "#B8FAF9"
 	},
 	{
 		"id": 3,
@@ -36,7 +38,8 @@
 		"eConf": "[He] 2s1",
 		"eNeg": 0.98,
 		"oxiS": [1],
-		"position": [2, 1]
+		"position": [2, 1],
+		"color": "#FF808E"
 	  },
 	  {
 		"id": 4,
@@ -49,7 +52,8 @@
 		"eConf": "[He] 2s2",
 		"eNeg": 1.57,
 		"oxiS": [2],
-		"position": [2, 2]
+		"position": [2, 2],
+		"color": "#FDEBC4"
 	  },
 	  {
 		"id": 5,
@@ -75,7 +79,8 @@
 		"eConf": "[He] 2s2 2p2",
 		"eNeg": 2.55,
 		"oxiS": [4],
-		"position": [2, 14]
+		"position": [2, 14],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 7,
@@ -88,7 +93,8 @@
 		"eConf": "[He] 2s2 2p3",
 		"eNeg": 3.04,
 		"oxiS": [3, -3],
-		"position": [2, 15]
+		"position": [2, 15],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 8,
@@ -101,7 +107,8 @@
 		"eConf": "[He] 2s2 2p4",
 		"eNeg": 3.44,
 		"oxiS": [-2],
-		"position": [2, 16]
+		"position": [2, 16],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 9,
@@ -114,7 +121,8 @@
 		"eConf": "[He] 2s2 2p5",
 		"eNeg": 3.98,
 		"oxiS": [-1],
-		"position": [2, 17]
+		"position": [2, 17],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 10,
@@ -127,7 +135,8 @@
 		"eConf": "[He] 2s2 2p6",
 		"eNeg": null,
 		"oxiS": [0],
-		"position": [2, 18]
+		"position": [2, 18],
+		"color": "#B8FAF9"
 	  },
 	  {
 		"id": 11,
@@ -153,7 +162,8 @@
 		"eConf": "[Ne] 3s2",
 		"eNeg": 1.31,
 		"oxiS": [2],
-		"position": [3, 2]
+		"position": [3, 2],
+		"color": "#FDEBC4"
 	  },
 	  {
 		"id": 13,
@@ -166,7 +176,8 @@
 		"eConf": "[Ne] 3s2 3p1",
 		"eNeg": 1.61,
 		"oxiS": [3],
-		"position": [3, 13]
+		"position": [3, 13],
+		"color": "#CCCCCC"
 	  },
 	  {
 		"id": 14,
@@ -192,7 +203,8 @@
 		"eConf": "[Ne] 3s2 3p3",
 		"eNeg": 2.19,
 		"oxiS": [3, -3],
-		"position": [3, 15]
+		"position": [3, 15],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 16,
@@ -205,7 +217,8 @@
 		"eConf": "[Ne] 3s2 3p4",
 		"eNeg": 2.58,
 		"oxiS": [2, -2, 6],
-		"position": [3, 16]
+		"position": [3, 16],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 17,
@@ -218,7 +231,8 @@
 		"eConf": "[Ne] 3s2 3p5",
 		"eNeg": 3.16,
 		"oxiS": [-1],
-		"position": [3, 17]
+		"position": [3, 17],
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 18,
@@ -231,7 +245,8 @@
 		"eConf": "[Ne] 3s2 3p6",
 		"eNeg": null,
 		"oxiS": [0],
-		"position": [3, 18]
+		"position": [3, 18],
+		"color": "#B8FAF9"
 	  },
 	  {
 		"id": 19,
@@ -270,7 +285,8 @@
 		"eConf": "[Ar] 3d1 4s2",
 		"eNeg": 1.36,
 		"oxiS": [3],
-		"position": [4, 3]
+		"position": [4, 3],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 22,
@@ -283,7 +299,274 @@
 		"eConf": "[Ar] 3d2 4s2",
 		"eNeg": 1.54,
 		"oxiS": [4],
-		"position": [4, 4]
+		"position": [4, 4],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 23,
+		"aN": 23,
+		"aW": 50.94,
+		"IE": 760,
+		"symbol": "V",
+		"name": "Vanadium",
+		"ru": "Ванадий",
+		"eConf": "[Ar] 3d3 4s2",
+		"eNeg": 1.63,
+		"oxiS": [2, 3, 4],
+		"position": [4, 5],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 24,
+		"aN": 24,
+		"aW": 51.996,
+		"IE": 760,
+		"symbol": "Cr",
+		"name": "Chromium",
+		"ru": "Хром",
+		"eConf": "[Ar] 3d5 4s1",
+		"eNeg": 1.66,
+		"oxiS": [2, 3, 6],
+		"position": [4, 6],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 25,
+		"aN": 25,
+		"aW": 54.94,
+		"IE": 760,
+		"symbol": "Mn",
+		"name": "Manganese",
+		"ru": "Марганец",
+		"eConf": "[Ar] 3d5 4s2",
+		"eNeg": 1.55,
+		"oxiS": [2, 4, 7],
+		"position": [4, 7],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 26,
+		"aN": 26,
+		"aW": 55.845,
+		"IE": 760,
+		"symbol": "Fe",
+		"name": "Iron",
+		"ru": "Железо",
+		"eConf": "[Ar] 3d6 4s2",
+		"eNeg": 1.83,
+		"oxiS": [2, 3, 6],
+		"position": [4, 8],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 27,
+		"aN": 27,
+		"aW": 58.93,
+		"IE": 760,
+		"symbol": "Co",
+		"name": "Cobalt",
+		"ru": "Кобальт",
+		"eConf": "[Ar] 3d7 4s2",
+		"eNeg": 1.88,
+		"oxiS": [2, 3],
+		"position": [4, 9],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 28,
+		"aN": 28,
+		"aW": 58.69,
+		"IE": 760,
+		"symbol": "Ni",
+		"name": "Nickel",
+		"ru": "Никель",
+		"eConf": "[Ar] 3d8 4s2",
+		"eNeg": 1.91,
+		"oxiS": [2, 3],
+		"position": [4, 10],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 29,
+		"aN": 29,
+		"aW": 63.546,
+		"IE": 760,
+		"symbol": "Cu",
+		"name": "Copper",
+		"ru": "Медь",
+		"eConf": "[Ar] 3d9 4s2",
+		"eNeg": 1.9,
+		"oxiS": [1, 2],
+		"position": [4, 11],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 30,
+		"aN": 30,
+		"aW": 65.38,
+		"IE": 760,
+		"symbol": "Zn",
+		"name": "Zinc",
+		"ru": "Цинк",
+		"eConf": "[Ar] 3d10 4s2",
+		"eNeg": 1.65,
+		"oxiS": [2],
+		"position": [4, 12],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 31,
+		"aN": 31,
+		"aW": 69.723,
+		"IE": 760,
+		"symbol": "Ga",
+		"name": "Gallium",
+		"ru": "Галлий",
+		"eConf": "[Ar] 3d10 4s2 4p1",
+		"eNeg": 1.81,
+		"oxiS": [3],
+		"position": [4, 13],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 32,
+		"aN": 32,
+		"aW": 72.630,
+		"IE": 760,
+		"symbol": "Ge",
+		"name": "Germanium",
+		"ru": "Германий",
+		"eConf": "[Ar] 3d10 4s2 4p2",
+		"eNeg": 2.01,
+		"oxiS": [4],
+		"position": [4, 14],
+		"color": "#CFCFAB"
+	  },
+	  {
+		"id": 33,
+		"aN": 33,
+		"aW": 74.922,
+		"IE": 760,
+		"symbol": "As",
+		"name": "Arsenic",
+		"ru": "Мышьяк",
+		"eConf": "[Ar] 3d10 4s2 4p3",
+		"eNeg": 2.18,
+		"oxiS": [-3, 2, 3, 5],
+		"position": [4, 15],
+		"color": "#CFCFAB"
+	  },
+	  {
+		"id": 34,
+		"aN": 34,
+		"aW": 78.971,
+		"IE": 760,
+		"symbol": "Se",
+		"name": "Selenium",
+		"ru": "Селен",
+		"eConf": "[Ar] 3d10 4s2 4p4",
+		"eNeg": 2.55,
+		"oxiS": [-2, 2, 4, 6],
+		"position": [4, 16],
+		"color": "#FFA500"
+	  },
+	  {
+		"id": 35,
+		"aN": 35,
+		"aW": 79.904,
+		"IE": 760,
+		"symbol": "Br",
+		"name": "Bromine",
+		"ru": "Бром",
+		"eConf": "[Ar] 3d10 4s2 4p5",
+		"eNeg": 2.96,
+		"oxiS": [-1, 1, 3, 5, 7],
+		"position": [4, 17],
+		"color": "#008080"
+	  },
+	  {
+		"id": 36,
+		"aN": 36,
+		"aW": 83.798,
+		"IE": 760,
+		"symbol": "Kr",
+		"name": "Krypton",
+		"ru": "Криптон",
+		"eConf": "[Ar] 3d10 4s2 4p6",
+		"eNeg": null,
+		"oxiS": [2],
+		"position": [4, 18],
+		"color": "#800080"
+	  },
+	  {
+		"id": 37,
+		"aN": 37,
+		"aW": 85.468,
+		"IE": 760,
+		"symbol": "Rb",
+		"name": "Rubidium",
+		"ru": "Рубидий",
+		"eConf": "[Kr] 5s1",
+		"eNeg": 0.82,
+		"oxiS": [1],
+		"position": [5, 1],
+		"color": "#FFD700"
+	  },
+	  {
+		"id": 38,
+		"aN": 38,
+		"aW": 87.620,
+		"IE": 760,
+		"symbol": "Sr",
+		"name": "Strontium",
+		"ru": "Стронций",
+		"eConf": "[Kr] 5s2",
+		"eNeg": 0.95,
+		"oxiS": [2],
+		"position": [5, 2],
+		"color": "#00FF7F"
+	  },
+	  {
+		"id": 39,
+		"aN": 39,
+		"aW": 88.906,
+		"IE": 760,
+		"symbol": "Y",
+		"name": "Yttrium",
+		"ru": "Иттрий",
+		"eConf": "[Kr] 4d1 5s2",
+		"eNeg": 1.22,
+		"oxiS": [3],
+		"position": [5, 3],
+		"color": "#000080"
+	  },
+	  {
+		"id": 40,
+		"aN": 40,
+		"aW": 91.224,
+		"IE": 760,
+		"symbol": "Zr",
+		"name": "Zirconium",
+		"ru": "Цирконий",
+		"eConf": "[Kr] 4d2 5s2",
+		"eNeg": 1.33,
+		"oxiS": [4],
+		"position": [5, 4],
+		"color": "#008080"
+	  },
+	  {
+		"id": 41,
+		"aN": 41,
+		"aW": 92.906,
+		"IE": 760,
+		"symbol": "Nb",
+		"name": "Niobium",
+		"ru": "Ниобий",
+		"eConf": "[Kr] 4d4 5s1",
+		"eNeg": 1.6,
+		"oxiS": [5],
+		"position": [5, 5],
+		"color": "#800080"
 	  }
   ]
   
