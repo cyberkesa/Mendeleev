@@ -16,22 +16,26 @@ const PeriodicTable = () => {
           key={element.id}
           className={`element ${selectedElement === element ? "selected" : ""}`}
           onClick={() => handleElementClick(element)}
+          style={{
+            gridRow: element.position[0],
+            gridColumn: element.position[1],
+          }}
         >
-          <div className="atomic-number">{element.atomicNumber}</div>
-          <div className="symbol">{element.symbol}</div>
-          <div className="name">{element.name}</div>
-          <div className="atomic-weight">{element.atomicWeight}</div>
-          <div className="ionization-energy">{element.ionizationEnergy}</div>
-          <div className="russian-name">{element.russianName}</div>
-          <div className="electron-configuration">
-            {element.electronConfiguration}
-          </div>
-          <div className="electronegativity">{element.electronegativity}</div>
+          <div className="atomic-number">{element.aN}</div>
           <div className="oxidation-states">
-            {element.oxidationStates.map((state, index) => (
+            {element.oxiS.map((state, index) => (
               <div key={index}>{state}</div>
             ))}
           </div>
+          <div className="atomic-weight">{element.aW}</div>
+          <div className="atomic">
+            <div className="ionization-energy">{element.IE}</div>
+            <div className="electronegativity">{element.eNeg}</div>
+          </div>
+          <div className="symbol">{element.symbol}</div>
+          <div className="name">{element.name}</div>
+          <div className="russian-name">{element.ru}</div>
+          <div className="electron-configuration">{element.eConf}</div>
         </div>
       ))}
     </div>
