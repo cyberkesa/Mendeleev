@@ -1,6 +1,6 @@
-import React from 'react';
-import './App.css';
-import PeriodicTable from './components/PeriodicTable';
+import React from "react";
+import "./App.css";
+import PeriodicTable from "./components/PeriodicTable";
 
 function App() {
   return (

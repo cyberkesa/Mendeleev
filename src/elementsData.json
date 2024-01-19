@@ -1,0 +1,27 @@
+[
+	{
+	  "id": 1,
+	  "atomicNumber": 1,
+	  "atomicWeight": 1.008,
+	  "ionizationEnergy": 1312,
+	  "symbol": "H",
+	  "name": "Hydrogen",
+	  "russianName": "Водород",
+	  "electronConfiguration": "1s1",
+	  "electronegativity": 2.20,
+	  "oxidationStates": "1, -1"
+	},
+	{
+	  "id": 2,
+	  "atomicNumber": 2,
+	  "atomicWeight": 4.0026,
+	  "ionizationEnergy": 2372,
+	  "symbol": "He",
+	  "name": "Helium",
+	  "russianName": "Гелий",
+	  "electronConfiguration": "1s2",
+	  "electronegativity": null,
+	  "oxidationStates": "0"
+	}
+  ]
+  
