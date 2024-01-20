@@ -1514,13 +1514,13 @@
 	  {
 		"id": 109,
 		"aN": 109,
-		"aW": 280,
-		"IE": 619,
+		"aW": "(268)",
+		"IE": "",
 		"symbol": "Mt",
 		"name": "Meitnerium",
 		"ru": "Мейтнерий",
 		"eConf": "",
-		"eNeg": 1.3,
+		"eNeg": "",
 		"oxiS": "",
 		"position": [7, 10],
 		"color": "#E0E0E0"
