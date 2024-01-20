@@ -23,11 +23,13 @@ const PeriodicTable = () => {
           }}
         >
           <div className="atomic-number">{element.aN}</div>
-          <div className="oxidation-states">
-            {element.oxiS.map((state, index) => (
-              <div key={index}>{state}</div>
-            ))}
-          </div>
+          {element.oxiS.length > 0 && (
+            <div className="oxidation-states">
+              {element.oxiS.map((state, index) => (
+                <div key={index}>{state}</div>
+              ))}
+            </div>
+          )}
           <div className="atomic-weight">{element.aW}</div>
           <div className="atomic">
             <div className="ionization-energy">{element.IE}</div>
