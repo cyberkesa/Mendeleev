@@ -7,10 +7,8 @@ const Colors = () => {
       <div className="colors-table">
         <div className="q q-alkali-metals"></div>
         <span className="alkali-metals">alkali metals</span>
-
         <div className="q q-alkaline"></div>
         <span className="alkaline">alkaline earth metals</span>
-
         <div>
           <div className="q q-lanthanides"></div>
           <span className="lanthanides">lanthanides</span>
@@ -19,8 +17,8 @@ const Colors = () => {
           <span className="actinides">actinides</span>
         </div>
 
-        <div className="q q-actinides"></div>
-        <span className="actinides">transition metals</span>
+        <div className="q q-transition"></div>
+        <span className="transition">transition metals</span>
 
         <div className="q q-unknown"></div>
         <span className="unknown">unknown properties</span>

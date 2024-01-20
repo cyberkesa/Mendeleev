@@ -1,44 +1,58 @@
 .q {
-  display: inline-flex;
-  height: 20px;
-  width: 20px;
-  margin-right: 5px;
+  height: 10px;
+  width: 10px;
   border: 0.1px solid #000000;
 }
 
-span {
-  margin: 5px;
-}
-
-.q-alkali-metals {
-  background-color: crimson;
+.colors-table {
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+  font-size: 10px;
 }
 
 .colors {
-  padding: 10px;
+  width: 85%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.q-alkali-metals {
+  background-color: #f55c66;
 }
 
 .q-alkaline {
-  background-color: rgb(255, 205, 147);
+  background-color: #fdebc4;
 }
+
 .q-lanthanides {
-  background-color: rgb(255, 205, 147);
+  background-color: #fccafc;
 }
+
 .q-actinides {
-  background-color: rgb(255, 205, 147);
+  background-color: #fcabbf;
 }
+
+.q-transition {
+  background-color: #ffccce;
+}
+
 .q-unknown {
   background-color: #e0e0e0;
 }
+
 .q-post {
-  background-color: rgb(255, 205, 147);
+  background-color: #cccccc;
 }
+
 .q-metalloids {
-  background-color: rgb(255, 205, 147);
+  background-color: #cfcfab;
 }
+
 .q-reactive {
-  background-color: rgb(255, 205, 147);
+  background-color: #f6ff99;
 }
+
 .q-noble {
-  background-color: rgb(255, 205, 147);
+  background-color: #b8faf9;
 }
