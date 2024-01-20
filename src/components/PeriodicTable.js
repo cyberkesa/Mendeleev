@@ -36,7 +36,20 @@ const PeriodicTable = () => {
           <div className="symbol">{element.symbol}</div>
           <div className="name">{element.name}</div>
           <div className="russian-name">{element.ru}</div>
-          <div className="electron-configuration">{element.eConf}</div>
+          <div
+            className="electron-configuration"
+            dangerouslySetInnerHTML={{
+              __html: element.eConf
+                .split(" ")
+                .map((part, index) => {
+                  const [orbit, electrons] = part.split("^");
+                  return `${orbit}${
+                    electrons ? `<sup>${electrons}</sup>` : ""
+                  }`;
+                })
+                .join(" "),
+            }}
+          />
         </div>
       ))}
       <div className="sep"></div>
