@@ -42,6 +42,13 @@
   grid-column: 4;
 }
 
+.sep1 {
+  width: 32px;
+  height: 32px;
+  grid-row: 8;
+  grid-column: span 10;
+}
+
 .oxidation-states {
   text-align: right;
   /* grid-row: 4; */

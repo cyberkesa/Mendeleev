@@ -585,7 +585,7 @@
 		"eNeg": 2.16,
 		"oxiS": [6],
 		"position": [5, 7],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 43,
@@ -599,7 +599,7 @@
 		"eNeg": 1.9,
 		"oxiS": [7],
 		"position": [5, 8],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 44,
@@ -613,7 +613,7 @@
 		"eNeg": 2.2,
 		"oxiS": [3],
 		"position": [5, 9],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 45,
@@ -627,7 +627,7 @@
 		"eNeg": 2.28,
 		"oxiS": [3],
 		"position": [5, 10],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 46,
@@ -641,7 +641,7 @@
 		"eNeg": 2.2,
 		"oxiS": [2, 4],
 		"position": [5, 11],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 47,
@@ -655,7 +655,7 @@
 		"eNeg": 1.93,
 		"oxiS": [1],
 		"position": [5, 12],
-		"color": ""
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 48,
@@ -669,7 +669,7 @@
 		"eNeg": 1.69,
 		"oxiS": [2],
 		"position": [5, 13],
-		"color": ""
+		"color": "#CCCCCC"
 	  },
 	  {
 		"id": 49,
@@ -683,7 +683,7 @@
 		"eNeg": 1.78,
 		"oxiS": [3],
 		"position": [5, 14],
-		"color": ""
+		"color": "#CCCCCC"
 	  },
 	  {
 		"id": 50,
@@ -697,7 +697,7 @@
 		"eNeg": 1.96,
 		"oxiS": [4, 2],
 		"position": [5, 15],
-		"color": ""
+		"color": "#CCCCCC"
 	  },
 	  {
 		"id": 51,
@@ -711,7 +711,7 @@
 		"eNeg": 2.05,
 		"oxiS": [3, 5],
 		"position": [5, 16],
-		"color": ""
+		"color": "#CFCFAB"
 	  },
 	  {
 		"id": 52,
@@ -725,7 +725,7 @@
 		"eNeg": 2.1,
 		"oxiS": [4, 6],
 		"position": [5, 17],
-		"color": ""
+		"color": "#CFCFAB"
 	  },
 	  {
 		"id": 53,
@@ -739,7 +739,7 @@
 		"eNeg": 2.66,
 		"oxiS": [-1, 1, 3, 5, 7],
 		"position": [5, 18],
-		"color": ""
+		"color": "#F6FF99"
 	  },
 	  {
 		"id": 54,
@@ -753,7 +753,7 @@
 		"eNeg": null,
 		"oxiS": [0],
 		"position": [5, 19],
-		"color": ""
+		"color": "#B8FAF9"
 	  },
 	  {
 		"id": 55,
@@ -795,7 +795,7 @@
 		"eNeg": 1.1,
 		"oxiS": [3],
 		"position": [6, 3],
-		"color": ""
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 58,
@@ -808,8 +808,8 @@
 		"eConf": "[Xe] 4f1 5d1 6s2",
 		"eNeg": 1.12,
 		"oxiS": [4],
-		"position": [6, 5],
-		"color": ""
+		"position": [9, 5],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 59,
@@ -822,8 +822,8 @@
 		"eConf": "[Xe] 4f3 6s2",
 		"eNeg": 1.13,
 		"oxiS": [3, 4],
-		"position": [6, 6],
-		"color": ""
+		"position": [9, 6],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 60,
@@ -836,8 +836,8 @@
 		"eConf": "[Xe] 4f4 6s2",
 		"eNeg": 1.14,
 		"oxiS": [3],
-		"position": [6, 7],
-		"color": ""
+		"position": [9, 7],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 61,
@@ -850,8 +850,8 @@
 		"eConf": "[Xe] 4f5 6s2",
 		"eNeg": null,
 		"oxiS": [3],
-		"position": [6, 8],
-		"color": ""
+		"position": [9, 8],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 62,
@@ -864,8 +864,8 @@
 		"eConf": "[Xe] 4f6 6s2",
 		"eNeg": 1.17,
 		"oxiS": [2, 3],
-		"position": [6, 9],
-		"color": ""
+		"position": [9, 9],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 63,
@@ -878,8 +878,8 @@
 		"eConf": "[Xe] 4f7 6s2",
 		"eNeg": 1.2,
 		"oxiS": [2, 3],
-		"position": [6, 10],
-		"color": ""
+		"position": [9, 10],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 64,
@@ -892,8 +892,8 @@
 		"eConf": "[Xe] 4f7 5d1 6s2",
 		"eNeg": 1.2,
 		"oxiS": [3],
-		"position": [6, 11],
-		"color": ""
+		"position": [9, 11],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 65,
@@ -906,8 +906,8 @@
 		"eConf": "[Xe] 4f9 6s2",
 		"eNeg": 1.2,
 		"oxiS": [3, 4],
-		"position": [6, 12],
-		"color": ""
+		"position": [9, 12],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 66,
@@ -920,8 +920,8 @@
 		"eConf": "[Xe] 4f10 6s2",
 		"eNeg": 1.22,
 		"oxiS": [3],
-		"position": [6, 13],
-		"color": ""
+		"position": [9, 13],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 67,
@@ -934,8 +934,8 @@
 		"eConf": "[Xe] 4f11 6s2",
 		"eNeg": 1.23,
 		"oxiS": [3],
-		"position": [6, 14],
-		"color": ""
+		"position": [9, 14],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 68,
@@ -948,8 +948,8 @@
 		"eConf": "[Xe] 4f12 6s2",
 		"eNeg": 1.24,
 		"oxiS": [3],
-		"position": [6, 15],
-		"color": ""
+		"position": [9, 15],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 69,
@@ -962,8 +962,8 @@
 		"eConf": "[Xe] 4f13 6s2",
 		"eNeg": 1.25,
 		"oxiS": [2, 3],
-		"position": [6, 16],
-		"color": ""
+		"position": [9, 16],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 70,
@@ -976,8 +976,8 @@
 		"eConf": "[Xe] 4f14 6s2",
 		"eNeg": 1.1,
 		"oxiS": [2, 3],
-		"position": [6, 17],
-		"color": ""
+		"position": [9, 17],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 71,
@@ -990,8 +990,8 @@
 		"eConf": "[Xe] 4f14 5d1 6s2",
 		"eNeg": 1.27,
 		"oxiS": [3],
-		"position": [6, 18],
-		"color": ""
+		"position": [9, 18],
+		"color": "#FCCAFC"
 	  },
 	  {
 		"id": 72,
@@ -1004,8 +1004,8 @@
 		"eConf": "[Xe] 4f14 5d2 6s2",
 		"eNeg": 1.3,
 		"oxiS": [4],
-		"position": [6, 19],
-		"color": ""
+		"position": [6, 5],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 73,
@@ -1018,8 +1018,8 @@
 		"eConf": "[Xe] 4f14 5d3 6s2",
 		"eNeg": 1.5,
 		"oxiS": [5],
-		"position": [7, 1],
-		"color": ""
+		"position": [6, 6],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 74,
@@ -1032,8 +1032,8 @@
 		"eConf": "[Xe] 4f14 5d4 6s2",
 		"eNeg": 2.36,
 		"oxiS": [6],
-		"position": [7, 2],
-		"color": ""
+		"position": [6, 7],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 75,
@@ -1046,8 +1046,8 @@
 		"eConf": "[Xe] 4f14 5d5 6s2",
 		"eNeg": 1.9,
 		"oxiS": [7],
-		"position": [7, 3],
-		"color": ""
+		"position": [6, 8],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 76,
@@ -1060,8 +1060,8 @@
 		"eConf": "[Xe] 4f14 5d6 6s2",
 		"eNeg": 2.2,
 		"oxiS": [4],
-		"position": [7, 5],
-		"color": ""
+		"position": [6, 9],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 77,
@@ -1074,8 +1074,8 @@
 		"eConf": "[Xe] 4f14 5d7 6s2",
 		"eNeg": 2.2,
 		"oxiS": [3],
-		"position": [7, 6],
-		"color": ""
+		"position": [6, 10],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 78,
@@ -1088,8 +1088,8 @@
 		"eConf": "[Xe] 4f14 5d9 6s1",
 		"eNeg": 2.28,
 		"oxiS": [2, 4],
-		"position": [7, 7],
-		"color": ""
+		"position": [6, 11],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 79,
@@ -1102,8 +1102,8 @@
 		"eConf": "[Xe] 4f14 5d10 6s1",
 		"eNeg": 2.54,
 		"oxiS": [1, 3],
-		"position": [7, 8],
-		"color": ""
+		"position": [6, 12],
+		"color": "#FFCCCE"
 	  },
 	  {
 		"id": 80,
@@ -1116,7 +1116,539 @@
 		"eConf": "[Xe] 4f14 5d10 6s2",
 		"eNeg": 2,
 		"oxiS": [1, 2],
+		"position": [6, 13],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 81,
+		"aN": 81,
+		"aW": 204.38,
+		"IE": 715,
+		"symbol": "Tl",
+		"name": "Thallium",
+		"ru": "Таллий",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p1",
+		"eNeg": 1.62,
+		"oxiS": [1, 3],
+		"position": [6, 14],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 82,
+		"aN": 82,
+		"aW": 207.2,
+		"IE": 716,
+		"symbol": "Pb",
+		"name": "Lead",
+		"ru": "Свинец",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p2",
+		"eNeg": 2.33,
+		"oxiS": [2, 4],
+		"position": [6, 15],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 83,
+		"aN": 83,
+		"aW": 208.98,
+		"IE": 717,
+		"symbol": "Bi",
+		"name": "Bismuth",
+		"ru": "Висмут",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p3",
+		"eNeg": 2.02,
+		"oxiS": [3, 5],
+		"position": [6, 16],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 84,
+		"aN": 84,
+		"aW": 209,
+		"IE": 815,
+		"symbol": "Po",
+		"name": "Polonium",
+		"ru": "Полоний",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p4",
+		"eNeg": 2,
+		"oxiS": [2, 4, 6],
+		"position": [6, 17],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 85,
+		"aN": 85,
+		"aW": 210,
+		"IE": 823,
+		"symbol": "At",
+		"name": "Astatine",
+		"ru": "Астат",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p5",
+		"eNeg": 2.2,
+		"oxiS": [-1, 1, 3, 5, 7],
+		"position": [6, 18],
+		"color": "#CFCFAB"
+	  },
+	  {
+		"id": 86,
+		"aN": 86,
+		"aW": 222,
+		"IE": 828,
+		"symbol": "Rn",
+		"name": "Radon",
+		"ru": "Радон",
+		"eConf": "[Xe] 4f14 5d10 6s2 6p6",
+		"eNeg": null,
+		"oxiS": [0],
+		"position": [6, 19],
+		"color": "#B8FAF9"
+	  },
+	  {
+		"id": 87,
+		"aN": 87,
+		"aW": 223,
+		"IE": 834,
+		"symbol": "Fr",
+		"name": "Francium",
+		"ru": "Франций",
+		"eConf": "[Rn] 7s1",
+		"eNeg": 0.7,
+		"oxiS": [1],
+		"position": [7, 1],
+		"color": ""
+	  },
+	  {
+		"id": 88,
+		"aN": 88,
+		"aW": 226,
+		"IE": 890,
+		"symbol": "Ra",
+		"name": "Radium",
+		"ru": "Радий",
+		"eConf": "[Rn] 7s2",
+		"eNeg": 0.9,
+		"oxiS": [2],
+		"position": [7, 2],
+		"color": ""
+	  },
+	  {
+		"id": 89,
+		"aN": 89,
+		"aW": 227,
+		"IE": 1007,
+		"symbol": "Ac",
+		"name": "Actinium",
+		"ru": "Актиний",
+		"eConf": "[Rn] 6d1 7s2",
+		"eNeg": 1.1,
+		"oxiS": [3],
+		"position": [7, 3],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 90,
+		"aN": 90,
+		"aW": 232.04,
+		"IE": 1170,
+		"symbol": "Th",
+		"name": "Thorium",
+		"ru": "Торий",
+		"eConf": "[Rn] 6d2 7s2",
+		"eNeg": 1.3,
+		"oxiS": [4],
+		"position": [10, 5],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 91,
+		"aN": 91,
+		"aW": 231.04,
+		"IE": 581,
+		"symbol": "Pa",
+		"name": "Protactinium",
+		"ru": "Протактиний",
+		"eConf": "[Rn] 5f2 6d1 7s2",
+		"eNeg": 1.5,
+		"oxiS": [5],
+		"position": [10, 6],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 92,
+		"aN": 92,
+		"aW": 238.03,
+		"IE": 592,
+		"symbol": "U",
+		"name": "Uranium",
+		"ru": "Уран",
+		"eConf": "[Rn] 5f3 6d1 7s2",
+		"eNeg": 1.38,
+		"oxiS": [6],
+		"position": [10, 7],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 93,
+		"aN": 93,
+		"aW": 237,
+		"IE": 619,
+		"symbol": "Np",
+		"name": "Neptunium",
+		"ru": "Нептуний",
+		"eConf": "[Rn] 5f4 6d1 7s2",
+		"eNeg": 1.36,
+		"oxiS": [5, 6],
+		"position": [10, 8],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 94,
+		"aN": 94,
+		"aW": 244,
+		"IE": 597,
+		"symbol": "Pu",
+		"name": "Plutonium",
+		"ru": "Плутоний",
+		"eConf": "[Rn] 5f6 7s2",
+		"eNeg": 1.28,
+		"oxiS": [4, 6],
+		"position": [10, 9],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 95,
+		"aN": 95,
+		"aW": 243,
+		"IE": 578,
+		"symbol": "Am",
+		"name": "Americium",
+		"ru": "Амерций",
+		"eConf": "[Rn] 5f7 7s2",
+		"eNeg": 1.13,
+		"oxiS": [3, 4],
+		"position": [10, 10],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 96,
+		"aN": 96,
+		"aW": 247,
+		"IE": 499,
+		"symbol": "Cm",
+		"name": "Curium",
+		"ru": "Кюрий",
+		"eConf": "[Rn] 5f7 6d1 7s2",
+		"eNeg": 1.28,
+		"oxiS": [3],
+		"position": [10, 11],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 97,
+		"aN": 97,
+		"aW": 247,
+		"IE": 587,
+		"symbol": "Bk",
+		"name": "Berkelium",
+		"ru": "Берклий",
+		"eConf": "[Rn] 5f9 7s2",
+		"eNeg": 1.3,
+		"oxiS": [4],
+		"position": [10, 12],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 98,
+		"aN": 98,
+		"aW": 251,
+		"IE": 601,
+		"symbol": "Cf",
+		"name": "Californium",
+		"ru": "Калифорний",
+		"eConf": "[Rn] 5f10 7s2",
+		"eNeg": 1.3,
+		"oxiS": [3],
+		"position": [10, 13],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 99,
+		"aN": 99,
+		"aW": 252,
+		"IE": 608,
+		"symbol": "Es",
+		"name": "Einsteinium",
+		"ru": "Эйнштейний",
+		"eConf": "[Rn] 5f11 7s2",
+		"eNeg": 1.3,
+		"oxiS": [3],
+		"position": [10, 14],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 100,
+		"aN": 100,
+		"aW": 257,
+		"IE": 619,
+		"symbol": "Fm",
+		"name": "Fermium",
+		"ru": "Фермий",
+		"eConf": "[Rn] 5f12 7s2",
+		"eNeg": 1.3,
+		"oxiS": [3],
+		"position": [10, 15],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 101,
+		"aN": 101,
+		"aW": 262,
+		"IE": 619,
+		"symbol": "Md",
+		"name": "Mendelevium",
+		"ru": "Менделевий",
+		"eConf": "[Rn] 5f13 7s2",
+		"eNeg": 1.3,
+		"oxiS": [3],
+		"position": [10, 16],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 102,
+		"aN": 102,
+		"aW": 267,
+		"IE": 619,
+		"symbol": "No",
+		"name": "Nobelium",
+		"ru": "Нобелий",
+		"eConf": "[Rn] 5f14 7s2",
+		"eNeg": 1.3,
+		"oxiS": [2],
+		"position": [10, 17],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 103,
+		"aN": 103,
+		"aW": 270,
+		"IE": 619,
+		"symbol": "Lr",
+		"name": "Lawrencium",
+		"ru": "Лоуренсий",
+		"eConf": "[Rn] 5f14 7s2 7p1",
+		"eNeg": 1.3,
+		"oxiS": [3],
+		"position": [10, 18],
+		"color": "#FCABBF"
+	  },
+	  {
+		"id": 104,
+		"aN": 104,
+		"aW": 271,
+		"IE": 619,
+		"symbol": "Rf",
+		"name": "Rutherfordium",
+		"ru": "Резерфордий",
+		"eConf": "[Rn] 5f14 6d2 7s2",
+		"eNeg": 1.3,
+		"oxiS": [4],
+		"position": [7, 5],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 105,
+		"aN": 105,
+		"aW": 270,
+		"IE": 619,
+		"symbol": "Db",
+		"name": "Dubnium",
+		"ru": "Дубний",
+		"eConf": "[Rn] 5f14 6d3 7s2",
+		"eNeg": 1.3,
+		"oxiS": [5],
+		"position": [7, 6],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 106,
+		"aN": 106,
+		"aW": 277,
+		"IE": 619,
+		"symbol": "Sg",
+		"name": "Seaborgium",
+		"ru": "Сиборгий",
+		"eConf": "[Rn] 5f14 6d4 7s2",
+		"eNeg": 1.3,
+		"oxiS": [6],
+		"position": [7, 7],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 107,
+		"aN": 107,
+		"aW": 276,
+		"IE": 619,
+		"symbol": "Bh",
+		"name": "Bohrium",
+		"ru": "Борий",
+		"eConf": "[Rn] 5f14 6d5 7s2",
+		"eNeg": 1.3,
+		"oxiS": [7],
+		"position": [7, 8],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 108,
+		"aN": 108,
+		"aW": 281,
+		"IE": 619,
+		"symbol": "Hs",
+		"name": "Hassium",
+		"ru": "Хассий",
+		"eConf": "[Rn] 5f14 6d6 7s2",
+		"eNeg": 1.3,
+		"oxiS": [8],
 		"position": [7, 9],
+		"color": "#FFCCCE"
+	  },
+	  {
+		"id": 109,
+		"aN": 109,
+		"aW": 280,
+		"IE": 619,
+		"symbol": "Mt",
+		"name": "Meitnerium",
+		"ru": "Мейтнерий",
+		"eConf": "[Rn] 5f14 6d7 7s2",
+		"eNeg": 1.3,
+		"oxiS": [9],
+		"position": [7, 10],
+		"color": ""
+	  },
+	  {
+		"id": 110,
+		"aN": 110,
+		"aW": 285,
+		"IE": 619,
+		"symbol": "Ds",
+		"name": "Darmstadtium",
+		"ru": "Дармштадтий",
+		"eConf": "[Rn] 5f14 6d9 7s1",
+		"eNeg": 1.3,
+		"oxiS": [8],
+		"position": [7, 11],
+		"color": ""
+	  },
+	  {
+		"id": 111,
+		"aN": 111,
+		"aW": null,
+		"IE": null,
+		"symbol": "Rg",
+		"name": "Roentgenium",
+		"ru": "Рентгений",
+		"eConf": "[Rn] 5f14 6d10 7s1",
+		"eNeg": null,
+		"oxiS": [1],
+		"position": [7, 12],
+		"color": ""
+	  },
+	  {
+		"id": 112,
+		"aN": 112,
+		"aW": null,
+		"IE": null,
+		"symbol": "Cn",
+		"name": "Copernicium",
+		"ru": "Коперниций",
+		"eConf": "[Rn] 5f14 6d10 7s2",
+		"eNeg": null,
+		"oxiS": [2],
+		"position": [7, 13],
+		"color": "#CCCCCC"
+	  },
+	  {
+		"id": 113,
+		"aN": 113,
+		"aW": null,
+		"IE": null,
+		"symbol": "Nh",
+		"name": "Nihonium",
+		"ru": "Нихоний",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p1",
+		"eNeg": null,
+		"oxiS": [1],
+		"position": [7, 14],
+		"color": ""
+	  },
+	  {
+		"id": 114,
+		"aN": 114,
+		"aW": null,
+		"IE": null,
+		"symbol": "Fl",
+		"name": "Flerovium",
+		"ru": "Флеровий",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p2",
+		"eNeg": null,
+		"oxiS": [2],
+		"position": [7, 15],
+		"color": ""
+	  },
+	  {
+		"id": 115,
+		"aN": 115,
+		"aW": null,
+		"IE": null,
+		"symbol": "Mc",
+		"name": "Moscovium",
+		"ru": "Московий",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p3",
+		"eNeg": null,
+		"oxiS": [3],
+		"position": [7, 16],
+		"color": ""
+	  },
+	  {
+		"id": 116,
+		"aN": 116,
+		"aW": null,
+		"IE": null,
+		"symbol": "Lv",
+		"name": "Livermorium",
+		"ru": "Ливерморий",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p4",
+		"eNeg": null,
+		"oxiS": [4],
+		"position": [7, 17],
+		"color": ""
+	  },
+	  {
+		"id": 117,
+		"aN": 117,
+		"aW": null,
+		"IE": null,
+		"symbol": "Ts",
+		"name": "Tennessine",
+		"ru": "Теннессин",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p5",
+		"eNeg": null,
+		"oxiS": [5],
+		"position": [7, 18],
+		"color": ""
+	  },
+	  {
+		"id": 118,
+		"aN": 118,
+		"aW": null,
+		"IE": null,
+		"symbol": "Og",
+		"name": "Oganesson",
+		"ru": "Оганесон",
+		"eConf": "[Rn] 5f14 6d10 7s2 7p6",
+		"eNeg": null,
+		"oxiS": [6],
+		"position": [7, 19],
 		"color": ""
 	  }
   ]

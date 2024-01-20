@@ -19,7 +19,7 @@ const PeriodicTable = () => {
           style={{
             gridRow: element.position[0],
             gridColumn: element.position[1],
-			backgroundColor: element.color
+            backgroundColor: element.color,
           }}
         >
           <div className="atomic-number">{element.aN}</div>
@@ -39,7 +39,8 @@ const PeriodicTable = () => {
           <div className="electron-configuration">{element.eConf}</div>
         </div>
       ))}
-	  <div className="sep"></div>
+      <div className="sep"></div>
+      <div className="sep1"></div>
     </div>
   );
 };
