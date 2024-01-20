@@ -11,7 +11,7 @@
   padding: 4px;
   cursor: pointer;
   width: 68px;
-  height: 70px;
+  height: 64px;
   position: relative;
   display: grid;
 }
@@ -32,6 +32,7 @@
 }
 
 .ionization-energy {
+  line-height: 80%;
   text-align: left;
 }
 
@@ -49,22 +50,26 @@
 
 .oxidation-states {
   text-align: right;
+  line-height: 7px;
   grid-row: span 2;
   grid-column: 3;
 }
 
 .atomic {
   display: flex;
+
   grid-row: 2;
 }
 
 .electronegativity {
+  line-height: 80%;
   margin-left: 6px;
 }
 
 .atomic-number {
   font-size: 2.4em;
   text-align: right;
+  line-height: 80%;
   font-weight: 500;
   grid-row: span 2;
   grid-column: 3;
@@ -82,6 +87,7 @@
   text-align: left;
   font-weight: bold;
   grid-row: 5;
+  line-height: 90%;
   grid-column: span 3;
 }
 
@@ -97,5 +103,6 @@
   font-weight: bold;
   font-size: 3.2em;
   grid-row: 3;
+  /* line-height: 90%; */
   grid-column: 1;
 }
