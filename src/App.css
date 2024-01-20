@@ -13,17 +13,17 @@
 }
 
 .App-header {
-  height: 4vh;
+  height: 90px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(3px + 2vmin);
+  font-size: 24px;
   color: rgb(15, 15, 15);
 }
 
 h1 {
-  font-weight: 500;
+  font-weight: 400;
   display: block;
 }
 

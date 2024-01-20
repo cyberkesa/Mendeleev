@@ -52,14 +52,15 @@
 
 .oxidation-states {
   text-align: right;
-  line-height: 8px;
+  line-height: 7px;
   grid-row: span 10;
   grid-column: 4;
+  font-size: 6px;
+  margin-top: 4px;
 }
 
 .atomic {
   display: flex;
-
   grid-row: 2;
 }
 
@@ -80,7 +81,7 @@
 .electron-configuration {
   text-align: left;
   font-size: 6px;
-  grid-row: 13;
+  grid-row: 6;
   grid-column: span 3;
 }
 
@@ -101,7 +102,7 @@
 
 .symbol {
   text-align: left;
-  font-weight: bold;
-  font-size: 3.2em;
+  font-weight: 600;
+  font-size: 3.4em;
   grid-column: 1;
 }
