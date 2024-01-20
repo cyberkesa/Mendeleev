@@ -1,0 +1,44 @@
+.q {
+  display: inline-flex;
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+  border: 0.1px solid #000000;
+}
+
+span {
+  margin: 5px;
+}
+
+.q-alkali-metals {
+  background-color: crimson;
+}
+
+.colors {
+  padding: 10px;
+}
+
+.q-alkaline {
+  background-color: rgb(255, 205, 147);
+}
+.q-lanthanides {
+  background-color: rgb(255, 205, 147);
+}
+.q-actinides {
+  background-color: rgb(255, 205, 147);
+}
+.q-unknown {
+  background-color: #e0e0e0;
+}
+.q-post {
+  background-color: rgb(255, 205, 147);
+}
+.q-metalloids {
+  background-color: rgb(255, 205, 147);
+}
+.q-reactive {
+  background-color: rgb(255, 205, 147);
+}
+.q-noble {
+  background-color: rgb(255, 205, 147);
+}
