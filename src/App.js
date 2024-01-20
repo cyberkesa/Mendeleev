@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import PeriodicTable from "./components/PeriodicTable";
+import Colors from "./components/Colors";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </header>
       <main>
         <PeriodicTable />
+        <Colors />
       </main>
     </div>
   );
