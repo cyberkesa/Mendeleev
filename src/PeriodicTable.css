@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat(18, 1fr);
   margin: auto;
-  width: 90%;
+  width: 95%;
   color: #000000;
 }
 
@@ -11,8 +11,10 @@
   border: 0.1px solid #000000;
   padding: 4px;
   cursor: pointer;
-  width: 74px;
-  height: 74px;
+  max-width: 74px;
+  max-height: 74px;
+  min-width: 65px;
+  min-height: 65px;
   position: relative;
   display: grid;
 }
@@ -87,7 +89,7 @@
 }
 
 .name {
-  font-size: 9px;
+  font-size: 7px;
   text-align: left;
   font-weight: 300;
   line-height: 99%;
@@ -104,8 +106,8 @@
 
 .symbol {
   text-align: left;
-  font-weight: 600;
-  font-size: 3.6em;
+  font-weight: 500;
+  font-size: 3em;
   grid-column: 1;
   line-height: 99%;
 }
