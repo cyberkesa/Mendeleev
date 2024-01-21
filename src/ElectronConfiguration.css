@@ -6,4 +6,11 @@
 .notes-li {
   font-size: 9px;
   text-align: left;
+  padding-inline-start: 55px;
+}
+
+.notes {
+	text-align: left;
+	margin: 0;
+	padding-inline-start: 40px;
 }
