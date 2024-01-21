@@ -59,10 +59,10 @@ sup {
 
 .oxidation-states {
   text-align: right;
-  line-height: 7px;
+  line-height: 5px;
   grid-row: span 10;
   grid-column: 4;
-  font-size: 6px;
+  font-size: 5px;
   margin-top: 4px;
 }
 
@@ -87,9 +87,10 @@ sup {
 
 .electron-configuration {
   text-align: left;
-  font-size: 6px;
+  font-size: 6.2px;
   grid-row: 6;
   grid-column: span 3;
+  letter-spacing: -0.3px;
 }
 
 .name {
