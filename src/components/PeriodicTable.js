@@ -13,35 +13,35 @@ const PeriodicTable = () => {
     <div className="periodic-table">
       {elementsData.map((element) => (
         <div
-          key={element.id}
+          key={element.atomicNumber}
           className={`element ${selectedElement === element ? "selected" : ""}`}
           onClick={() => handleElementClick(element)}
           style={{
-            gridRow: element.position[0],
-            gridColumn: element.position[1],
-            backgroundColor: element.color,
+            gridRow: element.gridPositionRowColumn[0],
+            gridColumn: element.gridPositionRowColumn[1],
+            backgroundColor: element.backgroundColor,
           }}
         >
-          <div className="atomic-number">{element.aN}</div>
-          {element.oxiS.length > 0 && (
+          <div className="atomic-number">{element.atomicNumber}</div>
+          {element.oxidationStates.length > 0 && (
             <div className="oxidation-states">
-              {element.oxiS.map((state, index) => (
+              {element.oxidationStates.map((state, index) => (
                 <div key={index}>{state}</div>
               ))}
             </div>
           )}
-          <div className="atomic-weight">{element.aW}</div>
+          <div className="atomic-weight">{element.standartAtomicWeight}</div>
           <div className="atomic">
-            <div className="ionization-energy">{element.IE}</div>
-            <div className="electronegativity">{element.eNeg}</div>
+            <div className="ionization-energy">{element.ionizationEnergy}</div>
+            <div className="electronegativity">{element.electronegativity}</div>
           </div>
-          <div className="symbol">{element.symbol}</div>
+          <div className="symbol">{element.chemicalSymbol}</div>
           <div className="name">{element.name}</div>
-          <div className="russian-name">{element.ru}</div>
+          <div className="russian-name">{element.russianName}</div>
           <div
             className="electron-configuration"
             dangerouslySetInnerHTML={{
-              __html: element.eConf
+              __html: element.electronCongiguration
                 .split(" ")
                 .map((part, index) => {
                   const [orbit, electrons] = part.split("^");
