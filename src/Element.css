@@ -17,12 +17,13 @@
   font-size: 16px;
   text-align: left;
   grid-row: 1;
-  line-height: 8px;
   grid-column: 1;
   font-weight: 600;
 }
 
 .ionization-energy-s {
+	grid-row: 2;
+	grid-column: 1;
   line-height: 80%;
   text-align: left;
 }
@@ -42,8 +43,10 @@
 }
 
 .electronegativity-s {
+	grid-row: 2;
+	grid-column: 1;
   line-height: 80%;
-  margin-left: 6px;
+  margin-left: 45px;
 }
 
 .atomic-number-s {

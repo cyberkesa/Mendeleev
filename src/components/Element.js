@@ -22,7 +22,9 @@ const Element = () => {
       <div className="symbol-s">Fe</div>
       <div className="name-s">Iron</div>
       <div className="russian-name-s">Железо</div>
-      <div className="electron-configuration-s">[Ar] 3d^6 4s^2</div>
+      <div className="electron-configuration-s">
+        [Ar] 3d<sup>6</sup> 4s<sup>2</sup>
+      </div>
     </div>
   );
 };
