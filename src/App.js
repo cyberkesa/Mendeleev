@@ -3,6 +3,7 @@ import "./App.css";
 import PeriodicTable from "./components/PeriodicTable";
 import Colors from "./components/Colors";
 import Element from "./components/Element";
+import ElectronConfiguration from "./components/ElectronConfiguration";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <main>
         <Element />
         <PeriodicTable />
+        <ElectronConfiguration />
         <Colors />
       </main>
     </div>
