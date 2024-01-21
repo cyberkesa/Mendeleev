@@ -36,6 +36,10 @@
   font-weight: 600;
 }
 
+sup {
+  font-size: 3px;
+}
+
 .ionization-energy {
   line-height: 80%;
   text-align: left;

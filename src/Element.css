@@ -84,6 +84,10 @@
   grid-column: span 2;
 }
 
+.electron-configuration-s > sup {
+	font-size: 7px;
+}
+
 .symbol-s {
   text-align: left;
   font-weight: 500;
