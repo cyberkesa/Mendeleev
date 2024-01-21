@@ -1,0 +1,88 @@
+.element-s {
+  border: 1px solid #444444;
+  width: 180px;
+  height: 160px;
+  width: 10%;
+  margin: auto;
+  margin-left: 570px;
+  margin-bottom: -190px;
+  background-color: #ffccce;
+
+  position: relative;
+  display: grid;
+  padding: 10px;
+}
+
+.atomic-weight-s {
+  font-size: 16px;
+  text-align: left;
+  grid-row: 1;
+  line-height: 8px;
+  grid-column: 1;
+  font-weight: 600;
+}
+
+.ionization-energy-s {
+  line-height: 80%;
+  text-align: left;
+}
+
+.oxidation-states-s {
+  text-align: right;
+  line-height: 13px;
+  grid-row: span 10;
+  grid-column: 4;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.atomic-s {
+  display: flex;
+  grid-row: 2;
+}
+
+.electronegativity-s {
+  line-height: 80%;
+  margin-left: 6px;
+}
+
+.atomic-number-s {
+  font-size: 2.4em;
+  text-align: right;
+  line-height: 80%;
+  font-weight: 600;
+  grid-row: 1;
+  grid-column: span 3;
+}
+
+.electron-configuration-s {
+  text-align: left;
+  font-size: 10px;
+  grid-row: 6;
+  grid-column: span 3;
+}
+
+.name-s {
+  font-size: 25px;
+  text-align: left;
+  font-weight: 300;
+  line-height: 99%;
+  grid-row: 4;
+  grid-column: span 3;
+}
+
+.russian-name-s {
+  text-align: left;
+  grid-row: 5;
+  font-size: 23px;
+  grid-column: span 2;
+}
+
+.symbol-s {
+  text-align: left;
+  font-weight: 600;
+  font-size: 3.6em;
+  grid-column: 1;
+  grid-row: 3;
+  line-height: 99%;
+}

@@ -2,7 +2,8 @@
   display: grid;
   grid-template-columns: repeat(18, 1fr);
   margin: auto;
-  width: 1420px;
+  width: 90%;
+  color: #000000;
 }
 
 .element {
@@ -10,8 +11,8 @@
   border: 0.1px solid #000000;
   padding: 4px;
   cursor: pointer;
-  width: 68px;
-  height: 68px;
+  width: 74px;
+  height: 74px;
   position: relative;
   display: grid;
 }
@@ -30,7 +31,7 @@
   grid-row: 1;
   line-height: 8px;
   grid-column: 1;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .ionization-energy {
@@ -73,7 +74,7 @@
   font-size: 2.4em;
   text-align: right;
   line-height: 80%;
-  font-weight: 500;
+  font-weight: 600;
   grid-row: 1;
   grid-column: span 3;
 }
@@ -86,23 +87,25 @@
 }
 
 .name {
-  font-size: 1.2em;
+  font-size: 9px;
   text-align: left;
-  font-weight: bold;
-  line-height: 90%;
+  font-weight: 300;
+  line-height: 99%;
   grid-row: 4;
-  grid-column: span 2;
+  grid-column: span 3;
 }
 
 .russian-name {
   text-align: left;
   grid-row: 5;
+  font-size: 9px;
   grid-column: span 2;
 }
 
 .symbol {
   text-align: left;
   font-weight: 600;
-  font-size: 3.4em;
+  font-size: 3.6em;
   grid-column: 1;
+  line-height: 99%;
 }
