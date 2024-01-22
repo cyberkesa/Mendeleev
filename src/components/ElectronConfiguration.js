@@ -3,6 +3,7 @@ import "../ElectronConfiguration.css";
 const ElectronConfiguration = () => {
   return (
     <div className="e-conf-table">
+		<h5 className="h-electron">Electron configuration blocks</h5>
       <div className="mini-table">
         <div className="div1">s</div>
         <div className="div2"></div>

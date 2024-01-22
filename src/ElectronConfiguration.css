@@ -8,10 +8,16 @@
   text-align: left;
   padding-inline-start: 55px;
 }
-
+.h-electron {
+  font-size: 9px;
+  font-weight: 300;
+  margin: 0;
+  margin-left: 50px;
+}
 .notes {
   text-align: left;
   margin: 0;
+  margin-top: 10px;
   padding-inline-start: 40px;
 }
 
@@ -30,25 +36,25 @@
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-left: 0.5px solid black;
-  background-color: rgb(255, 77, 77);
+  background-color: rgb(255, 153, 153);
   grid-area: 1 / 1 / 9 / 2;
 }
 .div2 {
-  background-color: rgb(255, 77, 77);
+  background-color: rgb(255, 153, 153);
   grid-area: 2 / 2 / 9 / 3;
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div3 {
-  background-color: rgb(152, 207, 255);
+  background-color: rgb(153, 204, 255);
   grid-area: 4 / 3 / 9 / 4;
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div4 {
-  background-color: rgb(152, 207, 255);
+  background-color: rgb(153, 204, 255);
   grid-area: 4 / 5 / 9 / 14;
   text-align: left;
   border-top: 0.5px solid black;
@@ -56,20 +62,20 @@
   border-left: 0.5px solid black;
 }
 .div5 {
-  background-color: rgb(237, 255, 134);
+  background-color: rgb(251, 254, 139);
   text-align: left;
   grid-area: 2 / 14 / 9 / 18;
   border: 0.5px solid black;
 }
 .div6 {
-  background-color: rgb(255, 77, 77);
+  background-color: rgb(255, 153, 153);
   grid-area: 1 / 17 / 2 / 18;
   border-top: 0.5px solid black;
   border-left: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div7 {
-  background-color: rgb(139, 243, 158);
+  background-color: rgb(155, 251, 155);
   grid-area: 12 / 5 / 14 / 17;
   text-align: left;
   border: 0.5px solid black;
@@ -79,7 +85,7 @@
 }
 
 .div7::before {
-	content: "*";
-	font-size: 12px;
-	margin-left: -8px;
+  content: "*";
+  font-size: 12px;
+  margin-left: -8px;
 }
