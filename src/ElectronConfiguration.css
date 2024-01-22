@@ -1,33 +1,37 @@
 .e-conf-table {
-  margin-top: -147px;
-  width: 200px;
+  margin-top: -160px;
+  width: 250px;
 }
 
 .notes-li {
-  font-size: 9px;
+  font-size: 8px;
   text-align: left;
-  padding-inline-start: 55px;
+  padding-inline-start: 58px;
 }
 .h-electron {
   font-size: 9px;
   font-weight: 300;
   margin: 0;
-  margin-left: 50px;
+  margin-left: 10px;
 }
 .notes {
   text-align: left;
+  font-size: 12px;
   margin: 0;
   margin-top: 10px;
   padding-inline-start: 40px;
 }
+.letter-notes-p {
+  padding-top: -10px;
+}
 
 .mini-table {
-  margin-left: 40px;
-  width: 200px;
-  height: 90px;
+  margin-left: 36px;
+  width: 180px;
+  height: 100px;
   display: grid;
-  grid-template-columns: repeat(19, 1fr);
-  grid-template-rows: repeat(10, 1fr);
+  grid-template-columns: repeat(17, 0.5fr);
+  grid-template-rows: repeat(10, 0.5fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
@@ -88,4 +92,41 @@
   content: "*";
   font-size: 12px;
   margin-left: -8px;
+}
+
+#root > div > main > div.periodic-table > div:nth-child(72)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -80px;
+  margin-top: -50px;
+}
+#root > div > main > div.periodic-table > div:nth-child(58)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -80px;
+  margin-top: -50px;
+}
+#root > div > main > div.periodic-table > div:nth-child(90)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -80px;
+  margin-top: -60px;
+}
+#root > div > main > div.periodic-table > div:nth-child(91)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -228px;
+  margin-top: -40px;
+}
+#root > div > main > div.periodic-table > div:nth-child(73)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -228px;
+  margin-top: 35px;
+}
+#root > div > main > div.periodic-table > div:nth-child(104)::after {
+  content: "*";
+  font-size: 42px;
+  margin-left: -73px;
+  margin-top: -58px;
 }

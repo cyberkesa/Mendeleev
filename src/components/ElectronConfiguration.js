@@ -12,7 +12,7 @@ const ElectronConfiguration = () => {
           <span className="letter-notes">d</span>
         </div>
         <div className="div5">
-          <span className="letter-notes">p</span>
+          <span className="letter-notes-p">p</span>
         </div>
         <div className="div6"></div>
         <div className="div7">
