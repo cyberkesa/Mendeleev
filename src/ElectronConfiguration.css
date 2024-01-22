@@ -1,5 +1,5 @@
 .e-conf-table {
-  margin-top: -100px;
+  margin-top: -147px;
   width: 200px;
 }
 
@@ -10,7 +10,76 @@
 }
 
 .notes {
-	text-align: left;
-	margin: 0;
-	padding-inline-start: 40px;
+  text-align: left;
+  margin: 0;
+  padding-inline-start: 40px;
+}
+
+.mini-table {
+  margin-left: 40px;
+  width: 200px;
+  height: 90px;
+  display: grid;
+  grid-template-columns: repeat(19, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1 {
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  border-left: 0.5px solid black;
+  background-color: rgb(255, 77, 77);
+  grid-area: 1 / 1 / 9 / 2;
+}
+.div2 {
+  background-color: rgb(255, 77, 77);
+  grid-area: 2 / 2 / 9 / 3;
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
+.div3 {
+  background-color: rgb(152, 207, 255);
+  grid-area: 4 / 3 / 9 / 4;
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
+.div4 {
+  background-color: rgb(152, 207, 255);
+  grid-area: 4 / 5 / 9 / 14;
+  text-align: left;
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  border-left: 0.5px solid black;
+}
+.div5 {
+  background-color: rgb(237, 255, 134);
+  text-align: left;
+  grid-area: 2 / 14 / 9 / 18;
+  border: 0.5px solid black;
+}
+.div6 {
+  background-color: rgb(255, 77, 77);
+  grid-area: 1 / 17 / 2 / 18;
+  border-top: 0.5px solid black;
+  border-left: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
+.div7 {
+  background-color: rgb(139, 243, 158);
+  grid-area: 12 / 5 / 14 / 17;
+  text-align: left;
+  border: 0.5px solid black;
+}
+.letter-notes {
+  padding: 3px;
+}
+
+.div7::before {
+	content: "*";
+	font-size: 12px;
+	margin-left: -8px;
 }
