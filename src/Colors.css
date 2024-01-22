@@ -1,25 +1,25 @@
-.q {
-  height: 15px;
-  width: 15px;
-  border: 1px solid #000000;
-  margin-right: 5px;
-}
-
 .flex {
   display: inline-flex;
 }
 
-span {
+.color-item > span {
   margin-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 3px;
+}
+
+.q {
+  height: 15px;
+  width: 15px;
+  border: 1px solid #000000;
+  margin-right: 10px;
 }
 
 .colors-table {
-  min-width: 1320px;
-  justify-content: center;
-  display: flex;
-  font-weight: 500;
-  text-align: center;
   font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .colors {
@@ -31,39 +31,35 @@ span {
 .q-alkali-metals {
   background-color: #f55c66;
 }
-
 .q-alkaline {
   background-color: #fdebc4;
 }
-
 .q-lanthanides {
   background-color: #fccafc;
 }
-
 .q-actinides {
   background-color: #fcabbf;
 }
-
 .q-transition {
   background-color: #ffccce;
 }
-
 .q-unknown {
   background-color: #e0e0e0;
 }
-
 .q-post {
   background-color: #cccccc;
 }
-
 .q-metalloids {
   background-color: #cfcfab;
 }
-
 .q-reactive {
   background-color: #f6ff99;
 }
-
 .q-noble {
   background-color: #b8faf9;
+}
+
+.color-item {
+  display: flex;
+  align-items: center;
 }

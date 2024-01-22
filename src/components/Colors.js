@@ -1,39 +1,33 @@
-import React, { useState } from "react";
+import React from "react";
 import "../Colors.css";
 
+const ColorItem = ({ className, label }) => (
+  <div className="color-item">
+    <div className={`q ${className}`}></div>
+    <span>{label}</span>
+  </div>
+);
+
 const Colors = () => {
+  const colorItems = [
+    { className: "q-alkali-metals", label: "alkali metals" },
+    { className: "q-alkaline", label: "alkaline earth metals" },
+    { className: "q-lanthanides", label: "lanthanides" },
+    { className: "q-actinides", label: "actinides" },
+    { className: "q-transition", label: "transition metals" },
+    { className: "q-unknown", label: "unknown properties" },
+    { className: "q-post", label: "post-transition metals" },
+    { className: "q-metalloids", label: "metalloids" },
+    { className: "q-reactive", label: "reactive nonmetals" },
+    { className: "q-noble", label: "noble gases" },
+  ];
+
   return (
     <div className="colors">
       <div className="colors-table">
-        <div className="q q-alkali-metals"></div>
-        <span className="alkali-metals">alkali metals</span>
-
-        <div className="q q-alkaline"></div>
-        <span className="alkaline">alkaline earth metals</span>
-
-        <div className="q q-lanthanides"></div>
-        <span className="lanthanides">lanthanides</span>
-
-        <div className="q q-actinides"></div>
-        <span className="actinides">actinides</span>
-
-        <div className="q q-transition"></div>
-        <span className="transition">transition metals</span>
-
-        <div className="q q-unknown"></div>
-        <span className="unknown">unknown properties</span>
-
-        <div className="q q-post"></div>
-        <span className="post">post-transition metals</span>
-
-        <div className="q q-metalloids"></div>
-        <span className="metalloids">metalloids</span>
-
-        <div className="q q-reactive"></div>
-        <span className="reactive">reactive nonmetals</span>
-
-        <div className="q q-noble"></div>
-        <span className="noble">noble gases</span>
+        {colorItems.map((item, index) => (
+          <ColorItem key={index} {...item} />
+        ))}
       </div>
     </div>
   );
