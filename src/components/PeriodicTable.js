@@ -35,7 +35,7 @@ const PeriodicTable = () => {
             <div className="ionization-energy">{element.ionizationEnergy}</div>
             <div className="electronegativity">{element.electronegativity}</div>
           </div>
-          <div className="symbol">{element.chemicalSymbol}</div>
+          <div className="chemical-symbol">{element.chemicalSymbol}</div>
           <div className="name">{element.name}</div>
           <div className="russian-name">{element.russianName}</div>
           <div
