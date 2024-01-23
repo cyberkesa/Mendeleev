@@ -2,9 +2,19 @@
   .periodic-table {
     overflow-x: scroll;
     justify-content: initial;
+    margin: 30px 20px 10px;
   }
 
   .iron-element {
     display: none;
+  }
+  .e-conf-table {
+    margin: auto;
+    width: auto;
+    padding-inline-start: 0;
+    margin: 0 auto;
+  }
+  .mini-table {
+    padding: 10px;
   }
 }
