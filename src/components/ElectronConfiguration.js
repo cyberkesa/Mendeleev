@@ -19,11 +19,13 @@ const ElectronConfiguration = () => {
           <span className="letter-notes">f</span>
         </div>
       </div>
-      <h4 className="notes">Notes</h4>
-      <ul className="notes-li">
-        <li>1 kj/mol 96.485 eV</li>
-        <li>all elements are implied to have an oxidarion state zero</li>
-      </ul>
+      <div className="notes-block">
+        <h4 className="notes">Notes</h4>
+        <ul className="notes-li">
+          <li>1 kj/mol 96.485 eV</li>
+          <li>all elements are implied to have an oxidation state zero</li>
+        </ul>
+      </div>
     </div>
   );
 };
