@@ -3,7 +3,7 @@ import "../Element.css";
 
 const Element = () => {
   return (
-    <div>
+    <div className="iron-element">
       <div className="element-s">
         <div className="atomic-number-s">26</div>
         <div className="oxidation-states-s">

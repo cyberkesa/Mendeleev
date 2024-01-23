@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import "./Adaptive.css";
 import PeriodicTable from "./components/PeriodicTable";
 import Colors from "./components/Colors";
 import Element from "./components/Element";
 import ElectronConfiguration from "./components/ElectronConfiguration";
+import "./Adaptive.css";
 
 function App() {
   return (
