@@ -28,12 +28,14 @@ const Element = () => {
         </div>
       </div>
       <div className="left-signs">
-		<p>standart atomic weight <br></br>or moststable mass number</p>
-		<p>1st ionization energy in kj/mol</p>
-		<p>chemical symbol</p>
-		<p>name</p>
-		<p>electron congiguration</p>
-	  </div>
+        <p>
+          standart atomic weight <br></br>or moststable mass number
+        </p>
+        <p>1st ionization energy in kj/mol</p>
+        <p>chemical symbol</p>
+        <p>name</p>
+        <p>electron congiguration</p>
+      </div>
     </div>
   );
 };

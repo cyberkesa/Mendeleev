@@ -7,4 +7,8 @@
   .russian-name {
     display: none;
   }
+
+  .periodic-table {
+    overflow-x: scroll;
+  }
 }

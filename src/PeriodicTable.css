@@ -9,10 +9,10 @@
   border: 0.1px solid #000000;
   padding: 5px;
   cursor: pointer;
-  max-width: 65px;
+  /* max-width: 65px;
   max-height: 62px;
   min-width: 65px;
-  min-height: 62px;
+  min-height: 62px; */
   height: 62px;
   width: 65px;
   position: relative;
