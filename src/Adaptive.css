@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px) {
+  .atomic-weight,
+  .ionization-energy,
+  .oxidation-states,
+  .electronegativity,
+  .electron-configuration,
+  .russian-name {
+    display: none;
+  }
+}

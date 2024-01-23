@@ -13,15 +13,17 @@
 }
 
 .App-header {
-  height: 65px;
-  width: 1440px;
+  height: 4vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
-  font-size: 16px;
+  font-size: calc(3px + 2vmin);
   color: rgb(15, 15, 15);
 }
 
 h1 {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .App-link {

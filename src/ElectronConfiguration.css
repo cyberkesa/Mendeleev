@@ -1,33 +1,29 @@
 .e-conf-table {
-  margin-top: -160px;
-  width: 250px;
+  margin-top: -175px;
+  width: 12em;
+  padding-inline-start: 40px;
 }
 
 .notes-li {
   font-size: 8px;
   text-align: left;
-  padding-inline-start: 58px;
 }
 .h-electron {
   font-size: 9px;
   font-weight: 300;
-  margin: 0;
-  margin-left: 10px;
 }
 .notes {
   text-align: left;
   font-size: 12px;
   margin: 0;
   margin-top: 10px;
-  padding-inline-start: 40px;
 }
 .letter-notes-p {
   padding-top: -10px;
 }
 
 .mini-table {
-  margin-left: 36px;
-  width: 180px;
+  width: 12em;
   height: 100px;
   display: grid;
   grid-template-columns: repeat(17, 0.5fr);
@@ -88,12 +84,13 @@
   padding: 3px;
 }
 
-.div7::before {
+/* .div7::before {
   content: "*";
   font-size: 12px;
   margin-left: -8px;
-}
+} */
 
+/* 
 #root > div > main > div.periodic-table > div:nth-child(72)::after {
   content: "*";
   font-size: 42px;
@@ -129,4 +126,4 @@
   font-size: 42px;
   margin-left: -73px;
   margin-top: -58px;
-}
+} */
