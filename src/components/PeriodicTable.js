@@ -5,9 +5,7 @@ import elementsData from "../elementsData.json";
 const PeriodicTable = () => {
   const [selectedElement, setSelectedElement] = useState(null);
 
-  const handleElementClick = (element) => {
-    setSelectedElement(element);
-  };
+  const handleElementClick = (element) => setSelectedElement(element);
 
   return (
     <div className="periodic-table">

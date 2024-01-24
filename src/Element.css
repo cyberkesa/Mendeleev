@@ -5,9 +5,7 @@
   max-height: 120px;
   max-width: 120px;
   width: 10%;
-  margin: auto;
-  margin-left: 490px;
-  margin-bottom: -190px;
+  margin: auto 0 -190px 490px;
   background-color: #ffccce;
   position: relative;
   display: grid;
@@ -22,13 +20,18 @@
   font-weight: 600;
 }
 
-.ionization-energy-s {
+.ionization-energy-s,
+.electronegativity-s {
   grid-row: 2;
   grid-column: 1;
-  line-height: 10%;
   font-size: 10px;
+  line-height: 10%;
   margin-top: -6px;
   text-align: left;
+}
+
+.electronegativity-s {
+  margin-left: 34px;
 }
 
 .oxidation-states-s {
@@ -43,15 +46,6 @@
 .atomic-s {
   display: flex;
   grid-row: 2;
-}
-
-.electronegativity-s {
-  grid-row: 2;
-  font-size: 10px;
-  grid-column: 1;
-  line-height: 10%;
-  margin-top: -6px;
-  margin-left: 45px;
 }
 
 .atomic-number-s {
@@ -104,13 +98,10 @@
   width: 160px;
   height: 166px;
   font-weight: 500;
-  margin: auto;
-  margin-top: 60px;
+  margin: 60px auto -200px 325px;
   text-align: right;
-  margin-left: 325px;
-  margin-bottom: -200px;
   display: grid;
-  grid-template-columns: 1fr, 40px;
+  grid-template-columns: 1fr 40px;
   grid-template-rows: repeat(6, 1fr);
 }
 
