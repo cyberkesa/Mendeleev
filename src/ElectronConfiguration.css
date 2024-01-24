@@ -36,25 +36,21 @@
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-left: 0.5px solid black;
-  background-color: rgb(255, 153, 153);
   grid-area: 1 / 1 / 9 / 2;
 }
 .div2 {
-  background-color: rgb(255, 153, 153);
   grid-area: 2 / 2 / 9 / 3;
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div3 {
-  background-color: rgb(153, 204, 255);
   grid-area: 4 / 3 / 9 / 4;
   border-top: 0.5px solid black;
   border-bottom: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div4 {
-  background-color: rgb(153, 204, 255);
   grid-area: 4 / 5 / 9 / 14;
   text-align: left;
   border-top: 0.5px solid black;
@@ -62,20 +58,17 @@
   border-left: 0.5px solid black;
 }
 .div5 {
-  background-color: rgb(251, 254, 139);
   text-align: left;
   grid-area: 2 / 14 / 9 / 18;
   border: 0.5px solid black;
 }
 .div6 {
-  background-color: rgb(255, 153, 153);
   grid-area: 1 / 17 / 2 / 18;
   border-top: 0.5px solid black;
   border-left: 0.5px solid black;
   border-right: 0.5px solid black;
 }
 .div7 {
-  background-color: rgb(155, 251, 155);
   grid-area: 12 / 5 / 14 / 17;
   text-align: left;
   border: 0.5px solid black;
@@ -84,46 +77,21 @@
   padding: 3px;
 }
 
-/* .div7::before {
-  content: "*";
-  font-size: 12px;
-  margin-left: -8px;
-} */
+.div1,
+.div2,
+.div6 {
+  background-color: rgb(255, 153, 153);
+}
 
-/* 
-#root > div > main > div.periodic-table > div:nth-child(72)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -80px;
-  margin-top: -50px;
+.div3,
+.div4 {
+  background-color: rgb(153, 204, 255);
 }
-#root > div > main > div.periodic-table > div:nth-child(58)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -80px;
-  margin-top: -50px;
+
+.div5 {
+  background-color: rgb(251, 254, 139);
 }
-#root > div > main > div.periodic-table > div:nth-child(90)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -80px;
-  margin-top: -60px;
+
+.div7 {
+  background-color: rgb(155, 251, 155);
 }
-#root > div > main > div.periodic-table > div:nth-child(91)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -228px;
-  margin-top: -40px;
-}
-#root > div > main > div.periodic-table > div:nth-child(73)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -228px;
-  margin-top: 35px;
-}
-#root > div > main > div.periodic-table > div:nth-child(104)::after {
-  content: "*";
-  font-size: 42px;
-  margin-left: -73px;
-  margin-top: -58px;
-} */
