@@ -190,7 +190,7 @@
 		"russianName": "Фосфор",
 		"electronCongiguration": "[Ne] 3s² 3p³",
 		"electronegativity": 2.19,
-		"oxidationStates": [3, -3],
+		"oxidationStates": ["+5", "+4", "+3", "+2", "+1", "0", "-1", "-2", "-3"],
 		"gridPositionRowColumn": [3, 16],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -203,7 +203,7 @@
 		"russianName": "Сера",
 		"electronCongiguration": "[Ne] 3s² 3p⁴",
 		"electronegativity": 2.58,
-		"oxidationStates": [2, -2, 6],
+		"oxidationStates": ["+6", "+5", "+4", "+3", "+2", "+1", "0", "-1", "-2"],
 		"gridPositionRowColumn": [3, 17],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -216,7 +216,7 @@
 		"russianName": "Хлор",
 		"electronCongiguration": "[Ne] 3s² 3p⁵",
 		"electronegativity": 3.16,
-		"oxidationStates": [-1],
+		"oxidationStates": ["+7", "+6", "+5", "+4", "+3", "+2", "+1", "0", "-1"],
 		"gridPositionRowColumn": [3, 18],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -229,7 +229,7 @@
 		"russianName": "Аргон",
 		"electronCongiguration": "[Ne] 3s² 3p⁶",
 		"electronegativity": null,
-		"oxidationStates": "",
+		"oxidationStates": ["0"],
 		"gridPositionRowColumn": [3, 19],
 		"backgroundColor": "#c0ffff"
 	  },
@@ -268,7 +268,7 @@
 		"russianName": "Скандий",
 		"electronCongiguration": "[Ar] 3d¹ 4s²",
 		"electronegativity": 1.36,
-		"oxidationStates": [3],
+		"oxidationStates": ["+3", "+2", "+1", "0"],
 		"gridPositionRowColumn": [4, 3],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -281,7 +281,7 @@
 		"russianName": "Титан",
 		"electronCongiguration": "[Ar] 3d² 4s²",
 		"electronegativity": 1.54,
-		"oxidationStates": [4],
+		"oxidationStates": ["+4", "+3", "+2", "+1", "0", "-1", "-2"],
 		"gridPositionRowColumn": [4, 5],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -294,7 +294,7 @@
 		"russianName": "Ванадий",
 		"electronCongiguration": "[Ar] 3d³ 4s²",
 		"electronegativity": 1.63,
-		"oxidationStates": [2, 3, 4],
+		"oxidationStates": ["+5", "+4", "+3", "+2", "+1", "0", "-1", "-3"],
 		"gridPositionRowColumn": [4, 6],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -307,7 +307,7 @@
 		"russianName": "Хром",
 		"electronCongiguration": "[Ar] 3d⁵ 4s¹",
 		"electronegativity": 1.66,
-		"oxidationStates": [2, 3, 6],
+		"oxidationStates": ["+6", "+5", "+4", "+3", "+2", "+1", "0", "-1", "-2", "-4"],
 		"gridPositionRowColumn": [4, 7],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -320,7 +320,7 @@
 		"russianName": "Марганец",
 		"electronCongiguration": "[Ar] 3d⁵ 4s²",
 		"electronegativity": 1.55,
-		"oxidationStates": [2, 4, 7],
+		"oxidationStates": ["+7", "+6", "+5", "+4", "+3", "+2", "+1", "0", "-1", "-3"],
 		"gridPositionRowColumn": [4, 8],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -333,7 +333,7 @@
 		"russianName": "Железо",
 		"electronCongiguration": "[Ar] 3d^6 4s²",
 		"electronegativity": 1.83,
-		"oxidationStates": ["+6", "+5", "+4", "+3", "+2", "+1", "-1", "-2"],
+		"oxidationStates": ["+6", "+5", "+4", "+3", "+2", "+1", "0", "-1", "-2"],
 		"gridPositionRowColumn": [4, 9],
 		"backgroundColor": "#ffc0c0"
 	  },
@@ -1204,7 +1204,7 @@
 		"russianName": "Нептуний",
 		"electronCongiguration": "[Rn] 5f⁴ 6d¹ 7s²",
 		"electronegativity": 1.36,
-		"oxidationStates": [5, 6],
+		"oxidationStates": ["+7", "+6", "+5", "+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 8],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1217,7 +1217,7 @@
 		"russianName": "Плутоний",
 		"electronCongiguration": "[Rn] 5f^6 7s²",
 		"electronegativity": 1.28,
-		"oxidationStates": [4, 6],
+		"oxidationStates": ["+8", "+7", "+6", "+5", "+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 9],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1230,7 +1230,7 @@
 		"russianName": "Амерций",
 		"electronCongiguration": "[Rn] 5f⁷ 7s²",
 		"electronegativity": 1.13,
-		"oxidationStates": [3, 4],
+		"oxidationStates": ["+7", "+6", "+5", "+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 10],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1243,7 +1243,7 @@
 		"russianName": "Кюрий",
 		"electronCongiguration": "[Rn] 5f⁷ 6d¹ 7s²",
 		"electronegativity": 1.28,
-		"oxidationStates": [3],
+		"oxidationStates": ["+6", "+5", "+4", "+3"],
 		"gridPositionRowColumn": [10, 11],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1256,7 +1256,7 @@
 		"russianName": "Берклий",
 		"electronCongiguration": "[Rn] 5f⁹ 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [4],
+		"oxidationStates": ["+5", "+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 12],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1269,7 +1269,7 @@
 		"russianName": "Калифорний",
 		"electronCongiguration": "[Rn] 5f¹⁰ 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [3],
+		"oxidationStates": ["+5", "+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 13],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1282,7 +1282,7 @@
 		"russianName": "Эйнштейний",
 		"electronCongiguration": "[Rn] 5f¹¹ 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [3],
+		"oxidationStates": ["+4", "+3", "+2"],
 		"gridPositionRowColumn": [10, 14],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1295,7 +1295,7 @@
 		"russianName": "Фермий",
 		"electronCongiguration": "[Rn] 5f¹² 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [3],
+		"oxidationStates": ["+3", "+2"],
 		"gridPositionRowColumn": [10, 15],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1308,7 +1308,7 @@
 		"russianName": "Менделевий",
 		"electronCongiguration": "[Rn] 5f¹3 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [3],
+		"oxidationStates": ["+3", "+2"],
 		"gridPositionRowColumn": [10, 16],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1321,7 +1321,7 @@
 		"russianName": "Нобелий",
 		"electronCongiguration": "[Rn] 5f¹⁴ 7s²",
 		"electronegativity": 1.3,
-		"oxidationStates": [2],
+		"oxidationStates": ["+3", "+2"],
 		"gridPositionRowColumn": [10, 17],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1334,7 +1334,7 @@
 		"russianName": "Лоуренсий",
 		"electronCongiguration": "[Rn] 5f¹⁴ 7s² 7p¹",
 		"electronegativity": 1.3,
-		"oxidationStates": [3],
+		"oxidationStates": ["+3"],
 		"gridPositionRowColumn": [10, 18],
 		"backgroundColor": "#ff99cc"
 	  },
@@ -1451,7 +1451,7 @@
 		"russianName": "Коперниций",
 		"electronCongiguration": "",
 		"electronegativity": null,
-		"oxidationStates": "",
+		"oxidationStates": ["+2"],
 		"gridPositionRowColumn": [7, 13],
 		"backgroundColor": "#CCCCCC"
 	  },
