@@ -8,7 +8,7 @@
 	  "russianName": "Водород",
 	  "electronCongiguration": "1s¹",
 	  "electronegativity": "2.20",
-	  "oxidationStates": ["+1", "-1"],
+	  "oxidationStates": ["+1", "0", "-1"],
 	  "gridPositionRowColumn": [1, 1],
 	  "backgroundColor": "#F6FF99"
 	},
@@ -21,7 +21,7 @@
 		"russianName": "Гелий",
 		"electronCongiguration": "1s²",
 		"electronegativity": null,
-		"oxidationStates": "",
+		"oxidationStates": ["0"],
 		"gridPositionRowColumn": [1, 19],
 		"backgroundColor": "#c0ffff"
 	},
@@ -34,7 +34,7 @@
 		"russianName": "Литий",
 		"electronCongiguration": "1s² 2s¹",
 		"electronegativity": 0.98,
-		"oxidationStates": ["+1", "-1"],
+		"oxidationStates": ["+1", "0"],
 		"gridPositionRowColumn": [2, 1],
 		"backgroundColor": "#ff6666"
 	},
@@ -47,7 +47,7 @@
 		"russianName": "Бериллий",
 		"electronCongiguration": "1s² 2s²",
 		"electronegativity": 1.57,
-		"oxidationStates": ["+2"],
+		"oxidationStates": ["+2", "+1", "0"],
 		"gridPositionRowColumn": [2, 2],
 		"backgroundColor": "#FDEBC4"
 	  },
@@ -60,7 +60,7 @@
 		"russianName": "Бор",
 		"electronCongiguration": "1s² 2s² 2p¹",
 		"electronegativity": 2.04,
-		"oxidationStates": ["+3", "+2", "+1"],
+		"oxidationStates": ["+3", "+2", "+1", "0", "-1", "-5"],
 		"gridPositionRowColumn": [2, 14],
 		"backgroundColor": "#cccc99"
 	  },
@@ -73,7 +73,7 @@
 		"russianName": "Углерод",
 		"electronCongiguration": "1s² 2s² 2p²",
 		"electronegativity": 2.55,
-		"oxidationStates": ["+4", "+3", "+2", "+1", "-1", "-2", "-3", "-4"],
+		"oxidationStates": ["+4", "+3", "+2", "+1", "0", "-1", "-2", "-3", "-4"],
 		"gridPositionRowColumn": [2, 15],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -86,7 +86,7 @@
 		"russianName": "Азот",
 		"electronCongiguration": "1s² 2s² 2p³",
 		"electronegativity": 3.04,
-		"oxidationStates": ["+5", "+4", "+3", "+2", "+1", "-1", "-2", "-3"],
+		"oxidationStates": ["+5", "+4", "+3", "+2", "+1", "0", "-1", "-2", "-3"],
 		"gridPositionRowColumn": [2, 16],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -99,7 +99,7 @@
 		"russianName": "Кислород",
 		"electronCongiguration": "1s² 2s² 2p⁴",
 		"electronegativity": 3.44,
-		"oxidationStates": ["+2", "+1", "-1", "-2"],
+		"oxidationStates": ["+2", "+1", "0", "-1", "-2"],
 		"gridPositionRowColumn": [2, 17],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -112,7 +112,7 @@
 		"russianName": "Фтор",
 		"electronCongiguration": "1s² 2s² 2p⁵",
 		"electronegativity": 3.98,
-		"oxidationStates": [-1],
+		"oxidationStates": ["-1", "0"],
 		"gridPositionRowColumn": [2, 18],
 		"backgroundColor": "#F6FF99"
 	  },
@@ -125,7 +125,7 @@
 		"russianName": "Неон",
 		"electronCongiguration": "1s² 2s² 2p⁶",
 		"electronegativity": null,
-		"oxidationStates": "",
+		"oxidationStates": ["0"],
 		"gridPositionRowColumn": [2, 19],
 		"backgroundColor": "#c0ffff"
 	  },
@@ -138,7 +138,7 @@
 		"russianName": "Натрий",
 		"electronCongiguration": "[Ne] 3s¹",
 		"electronegativity": 0.93,
-		"oxidationStates": [1],
+		"oxidationStates": ["+1", "0", "-1"],
 		"gridPositionRowColumn": [3, 1],
 		"backgroundColor": "#ff6666"
 	  },
@@ -151,7 +151,7 @@
 		"russianName": "Магний",
 		"electronCongiguration": "[Ne] 3s²",
 		"electronegativity": 1.31,
-		"oxidationStates": [2],
+		"oxidationStates": ["+2", "+1", "0"],
 		"gridPositionRowColumn": [3, 2],
 		"backgroundColor": "#FDEBC4"
 	  },
@@ -164,7 +164,7 @@
 		"russianName": "Алюминий",
 		"electronCongiguration": "[Ne] 3s² 3p¹",
 		"electronegativity": 1.61,
-		"oxidationStates": [3],
+		"oxidationStates": ["+3", "+2", "+1", "0", "-1", "-2"],
 		"gridPositionRowColumn": [3, 14],
 		"backgroundColor": "#CCCCCC"
 	  },
@@ -177,7 +177,7 @@
 		"russianName": "Кремний",
 		"electronCongiguration": "[Ne] 3s² 3p²",
 		"electronegativity": 1.90,
-		"oxidationStates": [4],
+		"oxidationStates": ["+4", "+3", "+2", "+1", "0", "-1", "-2", "-3", "-4"],
 		"gridPositionRowColumn": [3, 15],
 		"backgroundColor": "#cccc99"
 	  },
@@ -242,7 +242,7 @@
 		"russianName": "Калий",
 		"electronCongiguration": "[Ar] 4s¹",
 		"electronegativity": 0.82,
-		"oxidationStates": [1],
+		"oxidationStates": ["+1", "-1"],
 		"gridPositionRowColumn": [4, 1],
 		"backgroundColor": "#ff6666"
 	  },
@@ -255,7 +255,7 @@
 		"russianName": "Кальций",
 		"electronCongiguration": "[Ar] 4s²",
 		"electronegativity": 1.00,
-		"oxidationStates": [2],
+		"oxidationStates": ["+2", "+1"],
 		"gridPositionRowColumn": [4, 2],
 		"backgroundColor": "#FDEBC4"
 	  },
@@ -411,7 +411,7 @@
 		"russianName": "Германий",
 		"electronCongiguration": "[Ar] 3d¹⁰ 4s² 4p²",
 		"electronegativity": 2.01,
-		"oxidationStates": [4],
+		"oxidationStates": ["+4", "+3", "+2", "+1", "0", "-1", "-2", "-3", "-4"],
 		"gridPositionRowColumn": [4, 15],
 		"backgroundColor": "#cccc99"
 	  },
@@ -476,7 +476,7 @@
 		"russianName": "Рубидий",
 		"electronCongiguration": "[Kr] 5s¹",
 		"electronegativity": 0.82,
-		"oxidationStates": [1],
+		"oxidationStates": ["+1", "-1"],
 		"gridPositionRowColumn": [5, 1],
 		"backgroundColor": "#ff6666"
 	  },
@@ -645,7 +645,7 @@
 		"russianName": "Олово",
 		"electronCongiguration": "[Kr] 4d¹⁰ 5s² 5p²",
 		"electronegativity": 1.96,
-		"oxidationStates": [4, 2],
+		"oxidationStates": ["+4", "+3", "+2", "+1", "0", "-1", "-2", "-3", "-4"],
 		"gridPositionRowColumn": [5, 15],
 		"backgroundColor": "#CCCCCC"
 	  },
@@ -996,7 +996,7 @@
 		"russianName": "Иридий",
 		"electronCongiguration": "[Xe] 4f¹⁴ 5d⁷ 6s²",
 		"electronegativity": 2.2,
-		"oxidationStates": [3],
+		"oxidationStates": ["+9", "+8", "+7", "+6", "+5", "+4", "+3", "+2", "+1", "0", "-1", "-2", "-3"],
 		"gridPositionRowColumn": [6, 10],
 		"backgroundColor": "#ffc0c0"
 	  },
