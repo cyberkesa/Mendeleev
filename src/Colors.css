@@ -41,9 +41,6 @@
 .q-transition {
   background-color: #ffccce;
 }
-.q-unknown {
-  background-color: #e0e0e0;
-}
 .q-post {
   background-color: #cccccc;
 }
@@ -55,6 +52,9 @@
 }
 .q-noble {
   background-color: #b8faf9;
+}
+.q-halogens {
+  background-color: #7FFFD4;
 }
 
 .color-item {

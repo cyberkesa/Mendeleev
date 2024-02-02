@@ -21,7 +21,6 @@ const Colors = () => {
       className: "q-transition",
       label: "transition metals – переходные металлы ",
     },
-    { className: "q-unknown", label: "unknown properties" },
     {
       className: "q-post",
       label: "post-transition metals – постпереходные металлы",
@@ -29,6 +28,7 @@ const Colors = () => {
     { className: "q-metalloids", label: "metalloids – полуметаллы" },
     { className: "q-reactive", label: "reactive nonmetals – неметаллы" },
     { className: "q-noble", label: "noble gases – благородные газы" },
+    { className: "q-halogens", label: "halogens – галогены" },
   ];
 
   return (
