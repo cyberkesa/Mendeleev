@@ -3,7 +3,6 @@
 }
 
 .color-item > span {
-  margin-right: 20px;
   padding: 3px 0 5px;
 }
 
@@ -22,7 +21,7 @@
 }
 
 .colors {
-  width: 96%;
+  padding: 10px 20px 10px;
   margin: auto;
   padding-bottom: 7px;
 }

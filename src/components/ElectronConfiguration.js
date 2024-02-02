@@ -23,7 +23,6 @@ const ElectronConfiguration = () => {
         <h4 className="notes">Notes</h4>
         <ul className="notes-li">
           <li>1 kj/mol 96.485 eV</li>
-          <li>all elements are implied to have an oxidation state zero</li>
         </ul>
       </div>
     </div>
